@@ -37,6 +37,7 @@ cd FitMate-AI-Planner
 ```bash
 # Run training script
 python train_model.py
+#then run at Terminal
 streamlit run app.py
 
 
