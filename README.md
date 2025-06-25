@@ -6,8 +6,8 @@ FitMate is an AI-powered fitness planning system designed to help users achieve 
 
 ## 🚀 Features
 
-- ✅ Predicts daily **calorie intake**, **protein needs**, and **exercise duration**
-- 🏋️ Recommends tailored **workout types** and **sleep hours**
+- ✅ Predicts daily **Calorie Intake**, **Protein Needs**, and **Exercise Duration**
+- 🏋️ Recommends tailored **Workout Types** and **sleep hours** and **Health Tips**
 - 🧠 Machine Learning powered backend using **Random Forest**
 - 📊 User-friendly interface built with **Streamlit**
 - 📁 Supports data pre-processing, training, and prediction
