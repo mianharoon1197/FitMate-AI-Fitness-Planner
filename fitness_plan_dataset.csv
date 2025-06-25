@@ -1,0 +1,1001 @@
+Age,Gender,Height,Weight,BMI,Activity_Level,Activity_Type,Activity_Duration,Work_Type,Current_Sleep_Hours,Diet,Allergies,Health_Condition,Fitness_Goal,Target_Weight,Target_Timeline_Days,Calories_Intake,Protein_Intake,Recommended_Exercises,Recommended_Sleep,Exercise_Duration
+56,Male,164,92,34.2,Very Active,Home Workouts,40,Shift work,6.2,Vegan,None,Asthma,Endurance,92,133,2351,102,"Endurance Training, Balanced Meals",7.5,40
+39,Male,151,73,32.0,Very Active,Walking,83,Student,4.9,Keto,None,None,Weight Loss,68,88,1669,127,"HIIT, Walking",7.5,83
+33,Other,196,100,26.0,Very Active,Sports,83,Desk job,4.2,Vegan,None,None,Muscle Gain,108,118,2815,163,"Weightlifting, Protein Diet",7.5,83
+67,Female,158,75,30.0,Sedentary,Walking,79,Shift work,7.0,Keto,None,Hypertension,Endurance,75,79,2559,103,"Endurance Training, Balanced Meals",7.5,79
+19,Female,155,103,42.9,Lightly Active,Sports,73,Desk job,8.8,Non-Vegetarian,None,None,Endurance,103,43,2550,147,"Endurance Training, Balanced Meals",7.5,73
+32,Female,172,109,36.8,Sedentary,Home Workouts,72,Student,5.8,Keto,None,None,Weight Loss,104,118,1826,108,"HIIT, Walking",7.5,72
+41,Male,193,57,15.3,Very Active,Yoga,27,Shift work,8.0,Vegan,None,None,Weight Loss,46,101,1767,133,"HIIT, Walking",7.5,27
+50,Other,172,73,24.7,Sedentary,Yoga,63,Student,5.4,Vegan,None,None,Muscle Gain,80,30,2504,175,"Weightlifting, Protein Diet",7.5,63
+31,Other,176,58,18.7,Active,Walking,61,Student,4.5,Vegan,Dairy,None,Weight Loss,50,172,1670,128,"HIIT, Walking",7.5,61
+53,Male,181,56,17.1,Active,Yoga,47,Field work,7.1,Non-Vegetarian,None,Asthma,Endurance,56,137,2243,119,"Endurance Training, Balanced Meals",7.5,47
+47,Female,160,107,41.8,Active,Sports,81,Desk job,5.4,Vegan,None,Asthma,Weight Loss,100,132,1697,107,"HIIT, Walking",7.5,81
+44,Male,186,82,23.7,Active,Walking,63,Student,8.7,Non-Vegetarian,None,None,Endurance,82,142,2517,148,"Endurance Training, Balanced Meals",7.5,63
+69,Female,188,51,14.4,Active,Gym,75,Desk job,5.3,Non-Vegetarian,None,None,Weight Loss,46,158,1902,101,"HIIT, Walking",7.5,75
+61,Female,181,55,16.8,Very Active,Sports,74,Shift work,5.8,Vegetarian,Gluten,None,Endurance,55,127,2397,121,"Endurance Training, Balanced Meals",7.5,74
+28,Other,197,65,16.7,Sedentary,Gym,78,Field work,7.5,Vegan,None,None,Maintenance,65,119,2450,118,"Cardio, Balanced Diet",7.5,78
+37,Other,190,82,22.7,Very Active,Walking,20,Shift work,5.7,Vegetarian,None,None,Muscle Gain,89,36,2751,165,"Weightlifting, Protein Diet",7.5,20
+43,Male,198,51,13.0,Sedentary,Sports,88,Desk job,8.4,Vegan,None,None,Endurance,51,160,2603,123,"Endurance Training, Balanced Meals",7.5,88
+50,Other,198,57,14.5,Very Active,Sports,44,Desk job,5.4,Non-Vegetarian,None,None,Endurance,57,97,2488,113,"Endurance Training, Balanced Meals",7.5,44
+38,Other,152,66,28.6,Very Active,Gym,67,Student,6.5,Non-Vegetarian,None,None,Muscle Gain,75,80,2937,157,"Weightlifting, Protein Diet",7.5,67
+44,Other,183,70,20.9,Lightly Active,Gym,47,Shift work,6.5,Vegetarian,None,None,Endurance,70,64,2391,148,"Endurance Training, Balanced Meals",7.5,47
+34,Female,178,95,30.0,Sedentary,Yoga,56,Student,5.7,Non-Vegetarian,Soy,Hypertension,Weight Loss,87,96,1627,117,"HIIT, Walking",7.5,56
+42,Female,180,103,31.8,Lightly Active,Yoga,65,Student,5.0,Vegan,Soy,None,Maintenance,103,159,2473,116,"Cardio, Balanced Diet",7.5,65
+57,Male,158,92,36.9,Lightly Active,Home Workouts,61,Shift work,6.1,Non-Vegetarian,Dairy,Hypertension,Muscle Gain,97,65,2672,169,"Weightlifting, Protein Diet",7.5,61
+18,Female,165,63,23.1,Very Active,Yoga,34,Student,6.9,Keto,None,None,Weight Loss,49,92,1689,121,"HIIT, Walking",7.5,34
+39,Male,191,55,15.1,Active,Yoga,79,Desk job,6.6,Vegetarian,None,Hypertension,Maintenance,55,35,2364,131,"Cardio, Balanced Diet",7.5,79
+69,Female,196,84,21.9,Active,Sports,35,Desk job,8.8,Non-Vegetarian,None,Diabetes,Maintenance,84,48,2091,125,"Cardio, Balanced Diet",7.5,35
+54,Female,172,58,19.6,Very Active,Home Workouts,20,Field work,8.6,Vegan,None,None,Endurance,58,118,2687,144,"Endurance Training, Balanced Meals",7.5,20
+18,Male,188,54,15.3,Lightly Active,Home Workouts,86,Student,6.8,Vegan,Gluten,None,Muscle Gain,62,98,2546,198,"Weightlifting, Protein Diet",7.5,86
+47,Female,154,61,25.7,Very Active,Walking,67,Desk job,6.4,Vegetarian,None,None,Muscle Gain,67,98,2599,183,"Weightlifting, Protein Diet",7.5,67
+69,Other,159,107,42.3,Active,Walking,20,Student,7.3,Keto,None,Hypertension,Muscle Gain,112,157,2659,176,"Weightlifting, Protein Diet",7.5,20
+37,Female,184,109,32.2,Sedentary,Gym,80,Shift work,8.1,Keto,None,Hypertension,Muscle Gain,116,73,2784,162,"Weightlifting, Protein Diet",7.5,80
+29,Other,195,51,13.4,Sedentary,Yoga,54,Shift work,4.4,Keto,None,None,Muscle Gain,57,144,2604,156,"Weightlifting, Protein Diet",7.5,54
+21,Female,199,94,23.7,Active,Home Workouts,55,Desk job,8.0,Vegetarian,None,None,Endurance,94,128,2695,135,"Endurance Training, Balanced Meals",7.5,55
+35,Male,188,81,22.9,Very Active,Home Workouts,31,Desk job,7.4,Vegan,Gluten,None,Weight Loss,76,91,1583,147,"HIIT, Walking",7.5,31
+42,Female,162,108,41.2,Active,Gym,31,Desk job,8.5,Keto,None,Hypertension,Maintenance,108,157,2051,118,"Cardio, Balanced Diet",7.5,31
+64,Male,154,84,35.4,Very Active,Gym,71,Shift work,5.1,Vegetarian,Gluten,Diabetes,Weight Loss,75,71,1685,138,"HIIT, Walking",7.5,71
+31,Other,154,84,35.4,Active,Home Workouts,37,Shift work,4.7,Non-Vegetarian,Dairy,Asthma,Muscle Gain,93,166,2933,176,"Weightlifting, Protein Diet",7.5,37
+19,Male,178,86,27.1,Lightly Active,Yoga,27,Student,8.3,Non-Vegetarian,Dairy,Hypertension,Weight Loss,78,65,1569,130,"HIIT, Walking",7.5,27
+36,Male,193,103,27.7,Active,Yoga,38,Shift work,6.2,Vegetarian,None,None,Muscle Gain,111,90,2882,190,"Weightlifting, Protein Diet",7.5,38
+56,Male,152,62,26.8,Very Active,Gym,82,Student,5.4,Keto,None,None,Muscle Gain,70,90,2802,170,"Weightlifting, Protein Diet",7.5,82
+33,Female,170,60,20.8,Very Active,Home Workouts,55,Shift work,7.5,Vegetarian,None,None,Muscle Gain,65,146,2553,152,"Weightlifting, Protein Diet",7.5,55
+33,Other,160,61,23.8,Lightly Active,Sports,43,Student,5.7,Non-Vegetarian,None,None,Muscle Gain,69,57,2719,186,"Weightlifting, Protein Diet",7.5,43
+58,Other,166,58,21.0,Sedentary,Home Workouts,48,Desk job,8.6,Vegetarian,Nuts,None,Weight Loss,45,39,1811,129,"HIIT, Walking",7.5,48
+67,Other,194,54,14.3,Active,Gym,84,Field work,8.9,Vegetarian,None,Diabetes,Weight Loss,44,88,1782,148,"HIIT, Walking",7.5,84
+30,Male,183,90,26.9,Active,Gym,40,Student,4.4,Keto,Dairy,Hypertension,Muscle Gain,97,52,2984,186,"Weightlifting, Protein Diet",7.5,40
+27,Female,168,66,23.4,Sedentary,Gym,20,Shift work,5.4,Keto,None,None,Endurance,66,63,2547,130,"Endurance Training, Balanced Meals",7.5,20
+25,Other,175,107,34.9,Lightly Active,Yoga,69,Student,8.1,Keto,None,Asthma,Weight Loss,102,141,1754,146,"HIIT, Walking",7.5,69
+40,Other,186,70,20.2,Lightly Active,Walking,70,Shift work,4.7,Keto,Soy,None,Muscle Gain,77,81,2748,187,"Weightlifting, Protein Diet",7.5,70
+50,Other,179,104,32.5,Lightly Active,Yoga,24,Desk job,4.7,Keto,Dairy,Diabetes,Endurance,104,98,2233,105,"Endurance Training, Balanced Meals",7.5,24
+19,Male,192,92,25.0,Very Active,Yoga,42,Shift work,6.9,Vegan,None,None,Endurance,92,161,2383,124,"Endurance Training, Balanced Meals",7.5,42
+20,Other,176,78,25.2,Very Active,Walking,80,Field work,5.1,Vegetarian,None,None,Weight Loss,68,178,1825,100,"HIIT, Walking",7.5,80
+22,Male,161,75,28.9,Lightly Active,Walking,68,Field work,5.7,Vegan,None,Diabetes,Weight Loss,65,85,1849,142,"HIIT, Walking",7.5,68
+65,Male,166,75,27.2,Very Active,Gym,27,Desk job,7.0,Keto,None,None,Muscle Gain,81,57,2970,163,"Weightlifting, Protein Diet",7.5,27
+41,Female,194,75,19.9,Lightly Active,Yoga,75,Shift work,7.6,Vegan,Dairy,Diabetes,Endurance,75,47,2493,134,"Endurance Training, Balanced Meals",7.5,75
+68,Other,174,104,34.4,Sedentary,Sports,58,Desk job,8.2,Non-Vegetarian,None,None,Weight Loss,96,54,1567,109,"HIIT, Walking",7.5,58
+20,Male,194,67,17.8,Active,Sports,53,Shift work,7.7,Vegetarian,None,None,Weight Loss,57,55,1819,133,"HIIT, Walking",7.5,53
+62,Female,186,106,30.6,Sedentary,Home Workouts,41,Desk job,4.8,Vegan,None,Asthma,Muscle Gain,111,160,2742,180,"Weightlifting, Protein Diet",7.5,41
+57,Male,185,73,21.3,Active,Walking,23,Shift work,8.1,Vegetarian,None,Diabetes,Muscle Gain,78,108,2702,157,"Weightlifting, Protein Diet",7.5,23
+43,Other,194,93,24.7,Sedentary,Walking,87,Shift work,5.0,Keto,None,None,Muscle Gain,102,155,2638,185,"Weightlifting, Protein Diet",7.5,87
+30,Other,152,82,35.5,Lightly Active,Walking,29,Desk job,4.3,Keto,None,None,Endurance,82,94,2518,136,"Endurance Training, Balanced Meals",7.5,29
+26,Male,158,60,24.0,Active,Yoga,68,Desk job,8.2,Keto,None,Hypertension,Maintenance,60,166,2417,111,"Cardio, Balanced Diet",7.5,68
+52,Other,150,89,39.6,Very Active,Sports,83,Desk job,4.7,Vegetarian,Gluten,Diabetes,Maintenance,89,34,2338,113,"Cardio, Balanced Diet",7.5,83
+43,Female,153,74,31.6,Sedentary,Walking,37,Student,6.3,Keto,None,None,Muscle Gain,79,52,2562,164,"Weightlifting, Protein Diet",7.5,37
+50,Male,166,82,29.8,Active,Walking,72,Student,5.1,Vegan,None,Hypertension,Maintenance,82,71,2447,114,"Cardio, Balanced Diet",7.5,72
+64,Male,182,101,30.5,Lightly Active,Yoga,55,Desk job,4.8,Vegetarian,Gluten,Diabetes,Weight Loss,93,115,1821,109,"HIIT, Walking",7.5,55
+22,Other,159,82,32.4,Lightly Active,Home Workouts,50,Shift work,8.2,Keto,None,None,Endurance,82,34,2356,146,"Endurance Training, Balanced Meals",7.5,50
+21,Male,151,76,33.3,Active,Yoga,55,Student,7.6,Vegan,None,None,Muscle Gain,82,75,2862,161,"Weightlifting, Protein Diet",7.5,55
+43,Male,189,67,18.8,Sedentary,Gym,79,Shift work,8.7,Keto,Nuts,Diabetes,Weight Loss,55,156,1605,148,"HIIT, Walking",7.5,79
+45,Other,158,103,41.3,Active,Home Workouts,59,Desk job,8.6,Vegan,None,None,Muscle Gain,111,86,2500,189,"Weightlifting, Protein Diet",7.5,59
+32,Male,196,58,15.1,Sedentary,Gym,71,Desk job,4.0,Vegetarian,None,None,Muscle Gain,65,67,2885,156,"Weightlifting, Protein Diet",7.5,71
+35,Other,183,76,22.7,Sedentary,Yoga,78,Student,8.6,Non-Vegetarian,None,None,Muscle Gain,85,117,2660,198,"Weightlifting, Protein Diet",7.5,78
+46,Other,192,71,19.3,Lightly Active,Sports,68,Shift work,8.9,Vegetarian,None,None,Endurance,71,92,2388,139,"Endurance Training, Balanced Meals",7.5,68
+66,Other,150,81,36.0,Sedentary,Yoga,75,Shift work,5.7,Non-Vegetarian,None,None,Muscle Gain,88,47,2756,163,"Weightlifting, Protein Diet",7.5,75
+68,Other,199,51,12.9,Lightly Active,Sports,57,Shift work,4.8,Vegetarian,None,None,Maintenance,51,61,2265,109,"Cardio, Balanced Diet",7.5,57
+36,Female,183,109,32.5,Sedentary,Sports,51,Field work,8.3,Keto,None,None,Endurance,109,101,2253,146,"Endurance Training, Balanced Meals",7.5,51
+54,Other,182,77,23.2,Active,Walking,54,Student,8.9,Keto,Dairy,Asthma,Endurance,77,171,2422,147,"Endurance Training, Balanced Meals",7.5,54
+35,Other,159,56,22.2,Sedentary,Home Workouts,38,Student,4.9,Keto,None,Diabetes,Weight Loss,47,177,1510,141,"HIIT, Walking",7.5,38
+19,Other,172,104,35.2,Very Active,Sports,24,Desk job,6.0,Non-Vegetarian,None,Asthma,Maintenance,104,115,2363,123,"Cardio, Balanced Diet",7.5,24
+34,Female,179,105,32.8,Active,Gym,33,Desk job,6.7,Vegetarian,None,None,Muscle Gain,112,33,2653,178,"Weightlifting, Protein Diet",7.5,33
+62,Female,172,86,29.1,Active,Walking,61,Student,6.5,Non-Vegetarian,None,None,Muscle Gain,94,116,2616,191,"Weightlifting, Protein Diet",7.5,61
+39,Male,176,106,34.2,Active,Yoga,59,Field work,7.0,Vegetarian,None,None,Weight Loss,92,151,1545,101,"HIIT, Walking",7.5,59
+60,Male,185,100,29.2,Lightly Active,Home Workouts,40,Shift work,5.4,Keto,Nuts,Diabetes,Endurance,100,83,2297,146,"Endurance Training, Balanced Meals",7.5,40
+41,Female,171,54,18.5,Very Active,Gym,55,Shift work,5.3,Vegan,Dairy,Asthma,Maintenance,54,138,2490,133,"Cardio, Balanced Diet",7.5,55
+26,Female,151,102,44.7,Sedentary,Gym,59,Desk job,6.1,Vegetarian,None,None,Maintenance,102,64,2130,149,"Cardio, Balanced Diet",7.5,59
+54,Other,179,87,27.2,Lightly Active,Sports,38,Desk job,4.5,Vegan,Soy,Diabetes,Weight Loss,76,76,1511,115,"HIIT, Walking",7.5,38
+41,Other,157,80,32.5,Sedentary,Gym,89,Student,5.2,Vegetarian,None,None,Weight Loss,66,76,1787,109,"HIIT, Walking",7.5,89
+33,Other,166,72,26.1,Lightly Active,Home Workouts,26,Field work,4.6,Vegan,None,Hypertension,Muscle Gain,79,111,2722,179,"Weightlifting, Protein Diet",7.5,26
+69,Other,184,67,19.8,Active,Walking,36,Field work,7.0,Vegan,None,None,Maintenance,67,66,2170,139,"Cardio, Balanced Diet",7.5,36
+43,Other,172,93,31.4,Active,Gym,23,Desk job,7.3,Vegetarian,None,Asthma,Muscle Gain,101,155,2949,184,"Weightlifting, Protein Diet",7.5,23
+59,Female,179,108,33.7,Active,Home Workouts,32,Field work,8.7,Vegan,None,None,Weight Loss,103,91,1744,143,"HIIT, Walking",7.5,32
+33,Other,159,79,31.2,Sedentary,Sports,24,Desk job,5.2,Vegan,None,None,Muscle Gain,87,175,2945,186,"Weightlifting, Protein Diet",7.5,24
+42,Male,195,64,16.8,Sedentary,Gym,87,Student,8.8,Vegetarian,Gluten,None,Muscle Gain,71,91,2832,183,"Weightlifting, Protein Diet",7.5,87
+42,Other,153,108,46.1,Very Active,Sports,82,Field work,7.0,Vegetarian,None,None,Weight Loss,94,32,1875,105,"HIIT, Walking",7.5,82
+22,Male,196,72,18.7,Sedentary,Gym,39,Field work,6.6,Vegan,None,Diabetes,Muscle Gain,77,32,2659,184,"Weightlifting, Protein Diet",7.5,39
+55,Male,196,74,19.3,Sedentary,Sports,33,Desk job,4.5,Vegetarian,None,None,Weight Loss,61,105,1669,108,"HIIT, Walking",7.5,33
+32,Male,154,60,25.3,Active,Walking,57,Student,7.5,Keto,None,None,Endurance,60,57,2652,112,"Endurance Training, Balanced Meals",7.5,57
+34,Female,189,94,26.3,Very Active,Home Workouts,77,Shift work,5.7,Non-Vegetarian,None,Asthma,Weight Loss,84,176,1835,139,"HIIT, Walking",7.5,77
+45,Male,197,90,23.2,Sedentary,Yoga,64,Desk job,8.7,Keto,None,Diabetes,Maintenance,90,162,2234,144,"Cardio, Balanced Diet",7.5,64
+68,Other,172,91,30.8,Lightly Active,Yoga,72,Field work,8.5,Non-Vegetarian,Dairy,Asthma,Weight Loss,80,42,1545,126,"HIIT, Walking",7.5,72
+66,Male,166,89,32.3,Active,Walking,79,Student,6.7,Vegan,None,None,Maintenance,89,103,2232,131,"Cardio, Balanced Diet",7.5,79
+51,Other,177,109,34.8,Active,Home Workouts,41,Student,4.9,Keto,None,None,Weight Loss,99,174,1893,100,"HIIT, Walking",7.5,41
+39,Female,167,99,35.5,Lightly Active,Home Workouts,55,Shift work,4.7,Vegetarian,None,None,Weight Loss,89,140,1578,131,"HIIT, Walking",7.5,55
+68,Other,172,75,25.4,Lightly Active,Walking,48,Student,6.1,Vegetarian,Dairy,None,Weight Loss,67,61,1629,146,"HIIT, Walking",7.5,48
+31,Female,160,76,29.7,Active,Gym,75,Student,7.7,Vegan,None,None,Muscle Gain,83,160,2756,187,"Weightlifting, Protein Diet",7.5,75
+32,Female,184,98,28.9,Sedentary,Sports,37,Shift work,6.4,Vegan,Soy,None,Weight Loss,89,37,1578,126,"HIIT, Walking",7.5,37
+63,Female,156,52,21.4,Sedentary,Sports,72,Student,8.6,Vegan,None,None,Muscle Gain,57,155,2735,169,"Weightlifting, Protein Diet",7.5,72
+53,Male,187,97,27.7,Sedentary,Sports,82,Field work,6.9,Vegetarian,None,None,Endurance,97,101,2476,117,"Endurance Training, Balanced Meals",7.5,82
+47,Female,195,96,25.2,Active,Yoga,64,Desk job,8.3,Non-Vegetarian,Nuts,Diabetes,Maintenance,96,117,2040,116,"Cardio, Balanced Diet",7.5,64
+29,Male,195,81,21.3,Active,Sports,39,Desk job,6.8,Keto,Nuts,None,Weight Loss,76,106,1615,125,"HIIT, Walking",7.5,39
+39,Other,151,87,38.2,Active,Walking,65,Field work,8.0,Non-Vegetarian,None,None,Endurance,87,90,2650,105,"Endurance Training, Balanced Meals",7.5,65
+26,Female,158,88,35.3,Active,Gym,27,Student,7.6,Non-Vegetarian,Gluten,None,Maintenance,88,36,2458,119,"Cardio, Balanced Diet",7.5,27
+33,Female,171,75,25.6,Active,Yoga,60,Student,7.7,Vegan,Gluten,None,Endurance,75,170,2224,144,"Endurance Training, Balanced Meals",7.5,60
+68,Female,168,104,36.8,Lightly Active,Sports,64,Student,8.4,Vegetarian,None,None,Muscle Gain,110,179,2536,181,"Weightlifting, Protein Diet",7.5,64
+58,Other,152,77,33.3,Lightly Active,Yoga,54,Desk job,4.4,Vegan,None,Asthma,Weight Loss,68,53,1903,136,"HIIT, Walking",7.5,54
+21,Female,169,109,38.2,Very Active,Walking,68,Shift work,6.9,Keto,None,None,Endurance,109,95,2534,133,"Endurance Training, Balanced Meals",7.5,68
+53,Female,188,91,25.7,Active,Yoga,77,Field work,5.8,Vegan,None,None,Maintenance,91,128,2281,107,"Cardio, Balanced Diet",7.5,77
+53,Female,172,91,30.8,Very Active,Walking,56,Desk job,4.3,Vegetarian,None,Asthma,Maintenance,91,43,2230,124,"Cardio, Balanced Diet",7.5,56
+37,Female,188,55,15.6,Sedentary,Yoga,47,Field work,8.3,Vegetarian,None,Diabetes,Endurance,55,74,2606,146,"Endurance Training, Balanced Meals",7.5,47
+48,Other,159,52,20.6,Lightly Active,Walking,29,Student,8.1,Vegetarian,None,None,Endurance,52,30,2512,119,"Endurance Training, Balanced Meals",7.5,29
+45,Male,192,86,23.3,Active,Home Workouts,56,Desk job,8.2,Keto,None,Asthma,Muscle Gain,94,177,2869,163,"Weightlifting, Protein Diet",7.5,56
+19,Male,186,69,19.9,Lightly Active,Home Workouts,20,Shift work,5.1,Vegetarian,Nuts,None,Weight Loss,62,41,1989,119,"HIIT, Walking",7.5,20
+67,Other,192,83,22.5,Sedentary,Walking,48,Desk job,6.9,Keto,None,None,Endurance,83,67,2539,122,"Endurance Training, Balanced Meals",7.5,48
+62,Female,191,109,29.9,Active,Walking,20,Shift work,7.4,Keto,None,Hypertension,Maintenance,109,63,2192,125,"Cardio, Balanced Diet",7.5,20
+60,Female,179,99,30.9,Lightly Active,Gym,45,Student,8.3,Vegetarian,None,Hypertension,Muscle Gain,107,62,2500,168,"Weightlifting, Protein Diet",7.5,45
+48,Female,197,54,13.9,Sedentary,Walking,81,Student,4.8,Keto,None,Hypertension,Weight Loss,41,42,1572,112,"HIIT, Walking",7.5,81
+48,Male,160,53,20.7,Lightly Active,Home Workouts,23,Field work,6.2,Non-Vegetarian,Gluten,Diabetes,Maintenance,53,138,2330,100,"Cardio, Balanced Diet",7.5,23
+41,Female,156,74,30.4,Sedentary,Gym,34,Desk job,5.9,Vegetarian,None,None,Weight Loss,67,131,1973,110,"HIIT, Walking",7.5,34
+52,Female,163,59,22.2,Lightly Active,Gym,22,Desk job,8.3,Keto,Dairy,Hypertension,Weight Loss,45,41,1632,133,"HIIT, Walking",7.5,22
+65,Male,164,93,34.6,Very Active,Yoga,67,Shift work,8.1,Non-Vegetarian,Gluten,None,Weight Loss,82,136,1835,146,"HIIT, Walking",7.5,67
+32,Male,185,60,17.5,Active,Sports,40,Desk job,5.8,Non-Vegetarian,None,None,Weight Loss,52,56,1656,146,"HIIT, Walking",7.5,40
+45,Other,157,65,26.4,Lightly Active,Sports,49,Field work,6.0,Vegetarian,None,None,Maintenance,65,36,2350,143,"Cardio, Balanced Diet",7.5,49
+27,Other,162,80,30.5,Active,Gym,61,Desk job,5.3,Keto,None,None,Muscle Gain,85,149,2672,191,"Weightlifting, Protein Diet",7.5,61
+64,Other,162,104,39.6,Lightly Active,Home Workouts,28,Field work,5.1,Non-Vegetarian,None,None,Muscle Gain,109,120,2792,153,"Weightlifting, Protein Diet",7.5,28
+67,Other,185,109,31.8,Active,Walking,37,Shift work,7.1,Vegetarian,None,None,Weight Loss,102,137,1725,132,"HIIT, Walking",7.5,37
+38,Male,171,97,33.2,Sedentary,Yoga,51,Shift work,5.2,Non-Vegetarian,None,None,Weight Loss,91,93,1790,106,"HIIT, Walking",7.5,51
+38,Female,152,91,39.4,Lightly Active,Home Workouts,58,Desk job,7.5,Vegan,None,Asthma,Endurance,91,131,2241,131,"Endurance Training, Balanced Meals",7.5,58
+56,Male,195,85,22.4,Very Active,Home Workouts,55,Shift work,6.0,Vegetarian,None,None,Endurance,85,42,2248,101,"Endurance Training, Balanced Meals",7.5,55
+22,Other,181,70,21.4,Very Active,Walking,86,Field work,5.2,Non-Vegetarian,None,None,Maintenance,70,31,2101,116,"Cardio, Balanced Diet",7.5,86
+52,Female,172,79,26.7,Very Active,Sports,77,Student,8.8,Vegetarian,None,None,Endurance,79,135,2645,129,"Endurance Training, Balanced Meals",7.5,77
+33,Male,165,61,22.4,Very Active,Sports,22,Student,5.9,Vegan,None,None,Weight Loss,53,133,1747,143,"HIIT, Walking",7.5,22
+18,Male,179,70,21.8,Very Active,Walking,51,Desk job,7.0,Keto,Gluten,Diabetes,Muscle Gain,78,143,2736,151,"Weightlifting, Protein Diet",7.5,51
+58,Male,151,76,33.3,Sedentary,Gym,84,Shift work,8.1,Non-Vegetarian,None,None,Maintenance,76,35,2418,121,"Cardio, Balanced Diet",7.5,84
+60,Other,171,109,37.3,Sedentary,Sports,31,Shift work,6.0,Non-Vegetarian,Dairy,None,Endurance,109,163,2266,115,"Endurance Training, Balanced Meals",7.5,31
+24,Female,158,64,25.6,Sedentary,Yoga,85,Shift work,7.5,Non-Vegetarian,Soy,None,Muscle Gain,69,54,2752,182,"Weightlifting, Protein Diet",7.5,85
+53,Other,163,50,18.8,Lightly Active,Home Workouts,71,Shift work,8.8,Non-Vegetarian,None,None,Endurance,50,178,2681,103,"Endurance Training, Balanced Meals",7.5,71
+42,Other,153,94,40.2,Very Active,Sports,51,Student,6.2,Vegetarian,Nuts,Asthma,Weight Loss,84,122,1542,101,"HIIT, Walking",7.5,51
+40,Other,180,100,30.9,Sedentary,Yoga,53,Field work,5.1,Non-Vegetarian,Soy,None,Endurance,100,112,2592,134,"Endurance Training, Balanced Meals",7.5,53
+38,Male,177,95,30.3,Active,Sports,23,Student,9.0,Vegetarian,None,None,Weight Loss,87,153,1921,138,"HIIT, Walking",7.5,23
+67,Other,186,101,29.2,Active,Home Workouts,26,Shift work,6.1,Non-Vegetarian,None,None,Weight Loss,90,159,1561,126,"HIIT, Walking",7.5,26
+38,Female,187,64,18.3,Sedentary,Walking,77,Student,6.7,Vegetarian,None,Asthma,Weight Loss,55,111,1984,144,"HIIT, Walking",7.5,77
+49,Male,184,98,28.9,Very Active,Yoga,82,Desk job,8.2,Vegan,None,None,Muscle Gain,106,141,2751,167,"Weightlifting, Protein Diet",7.5,82
+57,Other,190,78,21.6,Very Active,Home Workouts,57,Field work,7.9,Vegetarian,None,None,Endurance,78,166,2624,100,"Endurance Training, Balanced Meals",7.5,57
+19,Male,182,59,17.8,Lightly Active,Walking,79,Student,6.3,Vegan,None,None,Muscle Gain,64,108,2900,172,"Weightlifting, Protein Diet",7.5,79
+41,Male,168,54,19.1,Very Active,Sports,84,Shift work,7.4,Vegetarian,None,Diabetes,Weight Loss,47,46,1632,119,"HIIT, Walking",7.5,84
+38,Female,180,95,29.3,Very Active,Yoga,71,Shift work,8.7,Vegan,None,None,Weight Loss,86,123,1851,107,"HIIT, Walking",7.5,71
+27,Female,196,81,21.1,Very Active,Sports,27,Student,5.1,Vegetarian,None,None,Weight Loss,73,155,1823,113,"HIIT, Walking",7.5,27
+58,Male,174,107,35.3,Active,Walking,29,Desk job,4.6,Vegan,Soy,None,Weight Loss,101,40,1509,114,"HIIT, Walking",7.5,29
+34,Female,158,74,29.6,Very Active,Yoga,41,Student,5.2,Vegetarian,None,None,Weight Loss,62,178,1982,131,"HIIT, Walking",7.5,41
+47,Other,188,98,27.7,Very Active,Gym,66,Field work,7.2,Non-Vegetarian,None,Asthma,Endurance,98,164,2350,143,"Endurance Training, Balanced Meals",7.5,66
+49,Other,171,71,24.3,Active,Gym,41,Student,4.2,Non-Vegetarian,None,None,Endurance,71,56,2249,130,"Endurance Training, Balanced Meals",7.5,41
+32,Other,172,73,24.7,Very Active,Home Workouts,41,Shift work,7.8,Vegetarian,None,None,Maintenance,73,52,2412,129,"Cardio, Balanced Diet",7.5,41
+56,Other,174,86,28.4,Active,Walking,77,Student,8.1,Keto,Gluten,Hypertension,Endurance,86,93,2561,133,"Endurance Training, Balanced Meals",7.5,77
+60,Male,159,70,27.7,Very Active,Yoga,46,Field work,5.8,Vegetarian,None,None,Muscle Gain,76,87,2553,161,"Weightlifting, Protein Diet",7.5,46
+34,Female,163,106,39.9,Lightly Active,Home Workouts,39,Shift work,7.8,Vegan,None,Asthma,Weight Loss,92,161,1610,103,"HIIT, Walking",7.5,39
+37,Female,173,103,34.4,Active,Walking,56,Field work,6.1,Keto,None,None,Muscle Gain,111,86,2928,169,"Weightlifting, Protein Diet",7.5,56
+34,Other,156,53,21.8,Sedentary,Yoga,77,Shift work,7.5,Keto,None,None,Muscle Gain,60,89,2902,198,"Weightlifting, Protein Diet",7.5,77
+63,Other,171,73,25.0,Sedentary,Sports,49,Field work,7.5,Vegan,Dairy,None,Weight Loss,65,123,1682,148,"HIIT, Walking",7.5,49
+50,Female,198,108,27.5,Very Active,Yoga,66,Shift work,7.7,Non-Vegetarian,None,None,Endurance,108,177,2439,146,"Endurance Training, Balanced Meals",7.5,66
+44,Other,155,96,40.0,Lightly Active,Sports,28,Field work,6.9,Vegetarian,None,Hypertension,Maintenance,96,136,2112,129,"Cardio, Balanced Diet",7.5,28
+62,Female,166,108,39.2,Sedentary,Yoga,38,Field work,8.3,Non-Vegetarian,Dairy,Asthma,Weight Loss,100,78,1904,109,"HIIT, Walking",7.5,38
+22,Female,175,53,17.3,Lightly Active,Walking,54,Desk job,7.9,Keto,Gluten,None,Endurance,53,137,2387,130,"Endurance Training, Balanced Meals",7.5,54
+37,Male,185,70,20.5,Lightly Active,Sports,49,Field work,5.3,Vegan,None,Diabetes,Muscle Gain,76,99,2543,158,"Weightlifting, Protein Diet",7.5,49
+62,Other,169,67,23.5,Lightly Active,Yoga,76,Desk job,6.7,Vegetarian,Gluten,None,Maintenance,67,177,2471,114,"Cardio, Balanced Diet",7.5,76
+65,Other,170,91,31.5,Lightly Active,Sports,33,Desk job,6.5,Vegetarian,None,None,Muscle Gain,100,78,2902,174,"Weightlifting, Protein Diet",7.5,33
+38,Male,190,82,22.7,Lightly Active,Home Workouts,87,Shift work,5.3,Vegan,None,None,Endurance,82,90,2260,133,"Endurance Training, Balanced Meals",7.5,87
+45,Female,192,90,24.4,Active,Gym,36,Field work,4.4,Non-Vegetarian,Dairy,None,Weight Loss,84,51,1611,101,"HIIT, Walking",7.5,36
+27,Female,165,97,35.6,Active,Home Workouts,58,Field work,5.5,Vegan,None,Asthma,Muscle Gain,104,92,2548,181,"Weightlifting, Protein Diet",7.5,58
+24,Male,169,75,26.3,Active,Sports,34,Student,4.6,Vegan,Dairy,Asthma,Maintenance,75,154,2488,139,"Cardio, Balanced Diet",7.5,34
+45,Female,198,51,13.0,Sedentary,Yoga,63,Desk job,6.0,Vegan,None,None,Weight Loss,45,176,1696,110,"HIIT, Walking",7.5,63
+29,Female,157,73,29.6,Very Active,Sports,60,Student,5.4,Keto,Gluten,None,Endurance,73,133,2409,141,"Endurance Training, Balanced Meals",7.5,60
+37,Female,161,51,19.7,Active,Yoga,22,Shift work,5.4,Keto,None,None,Maintenance,51,37,2100,131,"Cardio, Balanced Diet",7.5,22
+65,Other,186,53,15.3,Lightly Active,Yoga,51,Desk job,8.0,Non-Vegetarian,None,Hypertension,Weight Loss,42,50,1657,112,"HIIT, Walking",7.5,51
+51,Female,180,108,33.3,Active,Yoga,88,Desk job,4.5,Keto,Gluten,Asthma,Muscle Gain,117,38,2871,187,"Weightlifting, Protein Diet",7.5,88
+67,Female,168,109,38.6,Very Active,Gym,30,Field work,8.1,Keto,None,None,Muscle Gain,116,105,2975,179,"Weightlifting, Protein Diet",7.5,30
+43,Male,177,105,33.5,Lightly Active,Gym,54,Student,8.5,Vegan,None,Diabetes,Weight Loss,94,157,1649,116,"HIIT, Walking",7.5,54
+22,Other,179,64,20.0,Active,Yoga,52,Student,7.7,Non-Vegetarian,None,None,Endurance,64,76,2622,105,"Endurance Training, Balanced Meals",7.5,52
+26,Male,157,104,42.2,Active,Yoga,23,Field work,6.6,Non-Vegetarian,None,None,Weight Loss,95,75,1999,113,"HIIT, Walking",7.5,23
+53,Male,188,58,16.4,Active,Sports,25,Shift work,4.0,Vegan,None,None,Muscle Gain,66,101,2689,184,"Weightlifting, Protein Diet",7.5,25
+36,Female,163,108,40.6,Very Active,Gym,44,Student,7.7,Non-Vegetarian,Soy,None,Weight Loss,101,139,1934,102,"HIIT, Walking",7.5,44
+59,Other,158,77,30.8,Very Active,Home Workouts,82,Desk job,5.5,Vegan,None,None,Endurance,77,171,2319,137,"Endurance Training, Balanced Meals",7.5,82
+53,Male,179,58,18.1,Very Active,Gym,71,Desk job,8.1,Vegetarian,None,None,Muscle Gain,63,97,2975,157,"Weightlifting, Protein Diet",7.5,71
+19,Male,195,71,18.7,Sedentary,Home Workouts,81,Desk job,5.4,Keto,None,Hypertension,Muscle Gain,80,178,2824,197,"Weightlifting, Protein Diet",7.5,81
+37,Male,152,93,40.3,Sedentary,Home Workouts,80,Desk job,7.3,Vegetarian,None,Hypertension,Endurance,93,74,2542,146,"Endurance Training, Balanced Meals",7.5,80
+57,Female,161,95,36.6,Active,Gym,38,Field work,4.8,Non-Vegetarian,None,None,Endurance,95,161,2510,106,"Endurance Training, Balanced Meals",7.5,38
+45,Female,161,94,36.3,Active,Sports,85,Student,7.0,Vegan,Soy,None,Muscle Gain,99,174,2560,161,"Weightlifting, Protein Diet",7.5,85
+23,Female,176,57,18.4,Active,Sports,84,Desk job,5.7,Vegetarian,None,None,Endurance,57,113,2511,148,"Endurance Training, Balanced Meals",7.5,84
+30,Male,187,98,28.0,Lightly Active,Gym,81,Student,4.2,Keto,None,None,Weight Loss,93,91,1605,142,"HIIT, Walking",7.5,81
+58,Male,173,86,28.7,Sedentary,Gym,36,Student,6.7,Vegan,None,Asthma,Weight Loss,79,168,1832,145,"HIIT, Walking",7.5,36
+62,Male,189,93,26.0,Active,Sports,80,Desk job,5.3,Vegetarian,None,Asthma,Maintenance,93,37,2152,126,"Cardio, Balanced Diet",7.5,80
+63,Other,179,94,29.3,Active,Gym,66,Student,7.4,Non-Vegetarian,None,Asthma,Endurance,94,111,2684,118,"Endurance Training, Balanced Meals",7.5,66
+64,Male,182,61,18.4,Lightly Active,Yoga,34,Desk job,8.7,Vegan,None,None,Maintenance,61,104,2460,109,"Cardio, Balanced Diet",7.5,34
+31,Female,158,106,42.5,Active,Sports,22,Student,7.2,Vegetarian,Nuts,None,Endurance,106,123,2495,101,"Endurance Training, Balanced Meals",7.5,22
+34,Male,161,84,32.4,Active,Gym,74,Desk job,6.0,Vegetarian,None,None,Maintenance,84,52,2407,137,"Cardio, Balanced Diet",7.5,74
+45,Male,192,67,18.2,Very Active,Yoga,64,Shift work,6.7,Non-Vegetarian,Gluten,None,Muscle Gain,74,108,2540,172,"Weightlifting, Protein Diet",7.5,64
+57,Other,197,81,20.9,Lightly Active,Yoga,76,Field work,7.5,Vegetarian,None,None,Endurance,81,36,2395,136,"Endurance Training, Balanced Meals",7.5,76
+18,Male,196,69,18.0,Active,Home Workouts,79,Field work,7.2,Vegan,None,Diabetes,Maintenance,69,78,2368,137,"Cardio, Balanced Diet",7.5,79
+22,Female,197,101,26.0,Very Active,Sports,84,Shift work,7.4,Vegetarian,Soy,None,Endurance,101,96,2274,144,"Endurance Training, Balanced Meals",7.5,84
+21,Female,176,95,30.7,Lightly Active,Yoga,83,Shift work,4.8,Non-Vegetarian,None,None,Weight Loss,81,151,1624,136,"HIIT, Walking",7.5,83
+59,Male,184,72,21.3,Lightly Active,Sports,37,Student,6.7,Vegetarian,None,Hypertension,Endurance,72,174,2308,131,"Endurance Training, Balanced Meals",7.5,37
+65,Female,153,54,23.1,Sedentary,Gym,68,Desk job,6.7,Non-Vegetarian,None,Asthma,Maintenance,54,71,2353,131,"Cardio, Balanced Diet",7.5,68
+62,Other,198,70,17.9,Lightly Active,Sports,40,Student,8.2,Keto,None,None,Endurance,70,154,2682,112,"Endurance Training, Balanced Meals",7.5,40
+64,Female,160,85,33.2,Active,Home Workouts,36,Shift work,8.4,Keto,None,Diabetes,Maintenance,85,114,2007,127,"Cardio, Balanced Diet",7.5,36
+22,Male,186,85,24.6,Lightly Active,Yoga,83,Shift work,8.5,Vegan,None,None,Muscle Gain,94,168,2986,177,"Weightlifting, Protein Diet",7.5,83
+22,Male,169,90,31.5,Lightly Active,Walking,31,Field work,4.7,Vegan,None,None,Endurance,90,125,2269,135,"Endurance Training, Balanced Meals",7.5,31
+55,Other,182,73,22.0,Active,Yoga,83,Desk job,5.8,Vegetarian,Dairy,Hypertension,Muscle Gain,81,33,2890,194,"Weightlifting, Protein Diet",7.5,83
+52,Other,158,57,22.8,Very Active,Home Workouts,38,Shift work,8.4,Vegan,None,Hypertension,Weight Loss,46,143,1979,121,"HIIT, Walking",7.5,38
+46,Female,192,52,14.1,Lightly Active,Walking,61,Student,5.5,Keto,Dairy,None,Maintenance,52,59,2056,129,"Cardio, Balanced Diet",7.5,61
+64,Other,168,99,35.1,Very Active,Walking,49,Shift work,4.2,Keto,Dairy,Diabetes,Weight Loss,87,165,1888,108,"HIIT, Walking",7.5,49
+18,Other,151,89,39.0,Active,Gym,53,Field work,5.4,Keto,None,None,Maintenance,89,101,2258,113,"Cardio, Balanced Diet",7.5,53
+30,Male,181,83,25.3,Sedentary,Home Workouts,35,Field work,4.4,Vegan,Dairy,None,Muscle Gain,91,95,2949,175,"Weightlifting, Protein Diet",7.5,35
+30,Other,180,109,33.6,Lightly Active,Yoga,27,Shift work,8.6,Non-Vegetarian,None,None,Maintenance,109,82,2294,100,"Cardio, Balanced Diet",7.5,27
+34,Male,179,102,31.8,Sedentary,Home Workouts,38,Desk job,6.1,Vegetarian,None,Asthma,Maintenance,102,61,2445,109,"Cardio, Balanced Diet",7.5,38
+27,Female,169,81,28.4,Lightly Active,Walking,47,Field work,8.1,Keto,None,None,Endurance,81,88,2670,107,"Endurance Training, Balanced Meals",7.5,47
+35,Other,180,63,19.4,Lightly Active,Walking,68,Shift work,4.5,Vegetarian,None,None,Endurance,63,67,2408,122,"Endurance Training, Balanced Meals",7.5,68
+41,Female,157,90,36.5,Lightly Active,Home Workouts,63,Desk job,4.4,Keto,None,None,Maintenance,90,166,2410,133,"Cardio, Balanced Diet",7.5,63
+61,Female,164,100,37.2,Sedentary,Yoga,68,Field work,5.9,Keto,None,None,Maintenance,100,89,2474,124,"Cardio, Balanced Diet",7.5,68
+27,Other,172,70,23.7,Sedentary,Yoga,32,Desk job,8.8,Keto,None,None,Weight Loss,57,50,1839,118,"HIIT, Walking",7.5,32
+36,Male,191,66,18.1,Sedentary,Sports,60,Shift work,6.3,Non-Vegetarian,None,Diabetes,Weight Loss,55,42,1709,136,"HIIT, Walking",7.5,60
+30,Other,151,65,28.5,Sedentary,Gym,57,Shift work,7.7,Non-Vegetarian,None,None,Weight Loss,59,166,1715,107,"HIIT, Walking",7.5,57
+24,Female,152,77,33.3,Lightly Active,Sports,63,Desk job,7.4,Non-Vegetarian,None,Asthma,Endurance,77,42,2512,148,"Endurance Training, Balanced Meals",7.5,63
+27,Male,193,96,25.8,Sedentary,Walking,65,Desk job,5.9,Keto,Dairy,Diabetes,Muscle Gain,102,160,2610,187,"Weightlifting, Protein Diet",7.5,65
+34,Female,173,78,26.1,Active,Gym,79,Field work,7.4,Keto,None,None,Weight Loss,66,121,1685,111,"HIIT, Walking",7.5,79
+44,Female,191,108,29.6,Active,Gym,53,Desk job,5.3,Keto,None,None,Maintenance,108,36,2243,111,"Cardio, Balanced Diet",7.5,53
+33,Other,185,62,18.1,Active,Sports,70,Desk job,6.7,Keto,Gluten,Diabetes,Endurance,62,74,2413,103,"Endurance Training, Balanced Meals",7.5,70
+57,Other,178,90,28.4,Sedentary,Walking,47,Desk job,7.7,Vegan,None,None,Endurance,90,166,2318,104,"Endurance Training, Balanced Meals",7.5,47
+49,Female,160,64,25.0,Very Active,Sports,41,Desk job,5.0,Non-Vegetarian,None,None,Muscle Gain,69,167,2800,168,"Weightlifting, Protein Diet",7.5,41
+28,Male,157,89,36.1,Very Active,Sports,84,Desk job,8.7,Non-Vegetarian,None,None,Maintenance,89,55,2240,149,"Cardio, Balanced Diet",7.5,84
+22,Male,160,105,41.0,Lightly Active,Gym,69,Field work,6.6,Vegan,None,Hypertension,Muscle Gain,114,163,2793,171,"Weightlifting, Protein Diet",7.5,69
+35,Female,159,95,37.6,Sedentary,Yoga,25,Desk job,6.4,Vegetarian,None,Asthma,Endurance,95,104,2532,149,"Endurance Training, Balanced Meals",7.5,25
+28,Other,177,93,29.7,Lightly Active,Gym,35,Student,8.8,Keto,None,Hypertension,Muscle Gain,98,105,2638,186,"Weightlifting, Protein Diet",7.5,35
+42,Female,168,72,25.5,Active,Walking,45,Field work,5.0,Vegan,Gluten,None,Weight Loss,63,109,1949,133,"HIIT, Walking",7.5,45
+25,Male,191,57,15.6,Lightly Active,Sports,84,Shift work,7.3,Vegan,Soy,Diabetes,Weight Loss,47,73,1636,136,"HIIT, Walking",7.5,84
+27,Male,177,77,24.6,Lightly Active,Yoga,61,Student,4.9,Vegan,Gluten,None,Weight Loss,64,122,1950,143,"HIIT, Walking",7.5,61
+30,Male,159,85,33.6,Sedentary,Yoga,53,Shift work,6.5,Vegetarian,Gluten,None,Endurance,85,177,2316,129,"Endurance Training, Balanced Meals",7.5,53
+52,Other,198,88,22.4,Active,Walking,36,Field work,9.0,Vegetarian,None,None,Endurance,88,143,2456,125,"Endurance Training, Balanced Meals",7.5,36
+62,Other,159,108,42.7,Active,Gym,24,Field work,8.8,Non-Vegetarian,Dairy,None,Weight Loss,100,168,1811,120,"HIIT, Walking",7.5,24
+52,Female,168,94,33.3,Very Active,Walking,59,Desk job,6.1,Keto,Dairy,Asthma,Muscle Gain,102,138,2720,157,"Weightlifting, Protein Diet",7.5,59
+58,Other,197,88,22.7,Lightly Active,Sports,87,Field work,8.7,Vegetarian,None,None,Maintenance,88,69,2446,135,"Cardio, Balanced Diet",7.5,87
+51,Male,173,73,24.4,Lightly Active,Sports,86,Field work,8.4,Vegan,None,None,Weight Loss,64,124,1753,140,"HIIT, Walking",7.5,86
+23,Male,159,89,35.2,Active,Home Workouts,80,Student,5.2,Vegan,None,None,Endurance,89,67,2698,135,"Endurance Training, Balanced Meals",7.5,80
+64,Male,154,62,26.1,Active,Walking,69,Field work,5.6,Vegetarian,None,None,Weight Loss,52,68,1515,121,"HIIT, Walking",7.5,69
+38,Female,170,57,19.7,Sedentary,Yoga,50,Field work,7.5,Vegan,None,None,Weight Loss,43,46,1823,147,"HIIT, Walking",7.5,50
+69,Other,174,108,35.7,Sedentary,Home Workouts,84,Shift work,6.5,Keto,Soy,None,Muscle Gain,115,30,2994,172,"Weightlifting, Protein Diet",7.5,84
+56,Male,166,83,30.1,Active,Gym,32,Field work,5.7,Keto,None,None,Weight Loss,72,94,1836,102,"HIIT, Walking",7.5,32
+43,Other,185,81,23.7,Very Active,Sports,37,Desk job,4.1,Keto,None,Diabetes,Weight Loss,75,161,1715,128,"HIIT, Walking",7.5,37
+36,Female,182,98,29.6,Very Active,Yoga,84,Desk job,7.6,Non-Vegetarian,None,Hypertension,Muscle Gain,105,176,2703,165,"Weightlifting, Protein Diet",7.5,84
+60,Female,174,69,22.8,Active,Sports,63,Shift work,5.6,Non-Vegetarian,None,Diabetes,Maintenance,69,148,2450,149,"Cardio, Balanced Diet",7.5,63
+33,Other,168,100,35.4,Lightly Active,Sports,31,Field work,6.0,Vegetarian,None,None,Weight Loss,91,86,1911,113,"HIIT, Walking",7.5,31
+22,Female,182,99,29.9,Very Active,Gym,38,Field work,5.7,Non-Vegetarian,None,None,Weight Loss,91,164,1578,122,"HIIT, Walking",7.5,38
+31,Other,168,103,36.5,Sedentary,Sports,48,Student,5.4,Non-Vegetarian,Nuts,None,Muscle Gain,112,46,2821,155,"Weightlifting, Protein Diet",7.5,48
+22,Female,190,54,15.0,Lightly Active,Walking,60,Desk job,5.7,Keto,None,None,Muscle Gain,59,64,2707,151,"Weightlifting, Protein Diet",7.5,60
+41,Female,187,71,20.3,Lightly Active,Yoga,74,Shift work,4.9,Vegan,Soy,None,Muscle Gain,79,137,2902,169,"Weightlifting, Protein Diet",7.5,74
+52,Other,151,79,34.6,Sedentary,Walking,41,Shift work,5.9,Vegan,None,Diabetes,Endurance,79,99,2432,135,"Endurance Training, Balanced Meals",7.5,41
+19,Male,153,50,21.4,Active,Walking,29,Desk job,8.7,Non-Vegetarian,Nuts,None,Endurance,50,51,2555,133,"Endurance Training, Balanced Meals",7.5,29
+47,Male,194,77,20.5,Sedentary,Gym,64,Student,8.7,Vegetarian,None,Hypertension,Endurance,77,102,2436,145,"Endurance Training, Balanced Meals",7.5,64
+59,Female,197,87,22.4,Sedentary,Walking,46,Field work,5.6,Keto,Gluten,Hypertension,Endurance,87,140,2470,103,"Endurance Training, Balanced Meals",7.5,46
+46,Other,158,76,30.4,Lightly Active,Yoga,36,Shift work,7.2,Non-Vegetarian,Gluten,None,Maintenance,76,142,2244,122,"Cardio, Balanced Diet",7.5,36
+64,Other,182,106,32.0,Lightly Active,Home Workouts,62,Student,8.6,Vegan,None,Diabetes,Muscle Gain,111,104,2515,167,"Weightlifting, Protein Diet",7.5,62
+47,Other,159,67,26.5,Lightly Active,Yoga,55,Shift work,5.4,Keto,None,None,Weight Loss,56,149,1590,145,"HIIT, Walking",7.5,55
+25,Other,195,91,23.9,Sedentary,Gym,25,Shift work,6.7,Vegetarian,Dairy,Hypertension,Weight Loss,78,111,1555,120,"HIIT, Walking",7.5,25
+19,Male,192,108,29.3,Very Active,Walking,59,Student,6.7,Vegan,Nuts,None,Muscle Gain,115,33,2713,156,"Weightlifting, Protein Diet",7.5,59
+60,Female,173,53,17.7,Very Active,Gym,74,Shift work,6.0,Non-Vegetarian,None,Hypertension,Weight Loss,44,121,1520,149,"HIIT, Walking",7.5,74
+24,Other,194,96,25.5,Very Active,Yoga,54,Student,5.4,Keto,Nuts,None,Muscle Gain,101,50,2560,173,"Weightlifting, Protein Diet",7.5,54
+42,Male,195,81,21.3,Active,Home Workouts,55,Field work,5.8,Non-Vegetarian,None,None,Weight Loss,72,90,1636,105,"HIIT, Walking",7.5,55
+68,Male,184,88,26.0,Lightly Active,Gym,24,Field work,8.4,Keto,Dairy,Diabetes,Weight Loss,78,58,1738,136,"HIIT, Walking",7.5,24
+40,Male,181,95,29.0,Very Active,Home Workouts,36,Shift work,4.0,Non-Vegetarian,None,Diabetes,Muscle Gain,100,155,2734,181,"Weightlifting, Protein Diet",7.5,36
+59,Other,163,107,40.3,Lightly Active,Sports,55,Field work,6.6,Keto,None,None,Maintenance,107,156,2146,114,"Cardio, Balanced Diet",7.5,55
+45,Other,158,96,38.5,Sedentary,Gym,38,Shift work,7.5,Vegan,Gluten,None,Muscle Gain,103,170,2745,150,"Weightlifting, Protein Diet",7.5,38
+51,Male,197,96,24.7,Sedentary,Gym,83,Desk job,5.7,Keto,Soy,None,Weight Loss,87,55,1804,102,"HIIT, Walking",7.5,83
+24,Female,198,88,22.4,Sedentary,Gym,81,Desk job,8.3,Vegan,None,None,Weight Loss,74,153,1643,124,"HIIT, Walking",7.5,81
+45,Male,150,78,34.7,Sedentary,Gym,70,Field work,8.0,Non-Vegetarian,None,Asthma,Weight Loss,71,168,1680,145,"HIIT, Walking",7.5,70
+47,Male,189,67,18.8,Active,Walking,27,Field work,6.4,Vegan,None,Hypertension,Endurance,67,145,2512,148,"Endurance Training, Balanced Meals",7.5,27
+62,Female,151,62,27.2,Sedentary,Sports,83,Desk job,6.8,Vegetarian,None,None,Muscle Gain,69,91,2631,160,"Weightlifting, Protein Diet",7.5,83
+48,Other,181,76,23.2,Lightly Active,Yoga,21,Field work,8.2,Vegetarian,None,Asthma,Weight Loss,64,77,1908,135,"HIIT, Walking",7.5,21
+25,Male,186,97,28.0,Sedentary,Walking,83,Student,7.7,Vegan,None,None,Muscle Gain,106,174,2899,172,"Weightlifting, Protein Diet",7.5,83
+48,Other,170,75,26.0,Very Active,Walking,81,Field work,5.5,Vegetarian,Gluten,None,Endurance,75,133,2258,139,"Endurance Training, Balanced Meals",7.5,81
+62,Other,151,79,34.6,Lightly Active,Sports,29,Student,7.7,Keto,None,None,Endurance,79,144,2545,122,"Endurance Training, Balanced Meals",7.5,29
+35,Female,181,98,29.9,Very Active,Gym,86,Field work,7.7,Vegetarian,None,None,Endurance,98,178,2577,145,"Endurance Training, Balanced Meals",7.5,86
+30,Other,185,56,16.4,Lightly Active,Walking,72,Shift work,8.1,Keto,Gluten,None,Endurance,56,130,2539,111,"Endurance Training, Balanced Meals",7.5,72
+50,Male,186,71,20.5,Lightly Active,Home Workouts,40,Student,5.2,Vegetarian,None,Asthma,Endurance,71,163,2416,145,"Endurance Training, Balanced Meals",7.5,40
+57,Other,178,56,17.7,Very Active,Home Workouts,37,Field work,7.7,Vegetarian,None,None,Endurance,56,56,2475,111,"Endurance Training, Balanced Meals",7.5,37
+60,Male,180,76,23.5,Very Active,Home Workouts,86,Desk job,6.3,Vegan,None,None,Weight Loss,69,178,1998,110,"HIIT, Walking",7.5,86
+47,Other,197,102,26.3,Active,Walking,68,Student,5.5,Vegan,Dairy,None,Maintenance,102,32,2207,104,"Cardio, Balanced Diet",7.5,68
+38,Male,159,68,26.9,Sedentary,Sports,80,Desk job,7.8,Vegan,None,None,Weight Loss,60,77,1710,122,"HIIT, Walking",7.5,80
+41,Other,195,83,21.8,Active,Sports,88,Shift work,5.1,Vegan,None,None,Muscle Gain,88,43,2702,181,"Weightlifting, Protein Diet",7.5,88
+28,Male,167,76,27.3,Active,Walking,40,Student,6.5,Vegetarian,None,Hypertension,Muscle Gain,82,179,2838,150,"Weightlifting, Protein Diet",7.5,40
+24,Male,164,89,33.1,Very Active,Walking,66,Desk job,8.2,Non-Vegetarian,None,None,Weight Loss,78,88,1542,114,"HIIT, Walking",7.5,66
+29,Female,169,79,27.7,Lightly Active,Yoga,47,Student,8.8,Vegetarian,None,None,Muscle Gain,85,65,2937,175,"Weightlifting, Protein Diet",7.5,47
+28,Other,171,69,23.6,Very Active,Home Workouts,59,Field work,4.4,Keto,None,None,Muscle Gain,76,36,2963,194,"Weightlifting, Protein Diet",7.5,59
+64,Other,172,73,24.7,Very Active,Gym,54,Shift work,4.2,Non-Vegetarian,None,None,Weight Loss,61,124,1872,129,"HIIT, Walking",7.5,54
+63,Other,161,98,37.8,Sedentary,Walking,48,Shift work,6.8,Non-Vegetarian,None,None,Muscle Gain,105,49,2549,187,"Weightlifting, Protein Diet",7.5,48
+41,Female,181,101,30.8,Active,Home Workouts,22,Desk job,7.8,Keto,None,None,Maintenance,101,133,2394,145,"Cardio, Balanced Diet",7.5,22
+25,Male,179,105,32.8,Very Active,Walking,58,Student,5.8,Vegetarian,None,Hypertension,Muscle Gain,113,111,2947,187,"Weightlifting, Protein Diet",7.5,58
+41,Other,172,71,24.0,Lightly Active,Yoga,65,Student,4.8,Keto,None,None,Muscle Gain,78,141,2815,172,"Weightlifting, Protein Diet",7.5,65
+34,Male,180,80,24.7,Lightly Active,Gym,74,Field work,5.4,Non-Vegetarian,None,Diabetes,Endurance,80,47,2570,111,"Endurance Training, Balanced Meals",7.5,74
+57,Male,164,91,33.8,Active,Home Workouts,51,Desk job,8.7,Non-Vegetarian,None,None,Endurance,91,105,2627,137,"Endurance Training, Balanced Meals",7.5,51
+36,Other,184,97,28.7,Lightly Active,Sports,78,Desk job,6.6,Keto,None,Hypertension,Weight Loss,87,106,1687,125,"HIIT, Walking",7.5,78
+31,Other,153,109,46.6,Active,Gym,51,Shift work,4.7,Non-Vegetarian,Dairy,None,Maintenance,109,160,2236,133,"Cardio, Balanced Diet",7.5,51
+33,Female,181,87,26.6,Very Active,Gym,25,Field work,5.3,Non-Vegetarian,None,None,Weight Loss,78,81,1844,140,"HIIT, Walking",7.5,25
+48,Female,170,107,37.0,Very Active,Sports,32,Desk job,8.4,Non-Vegetarian,None,None,Weight Loss,97,158,1898,112,"HIIT, Walking",7.5,32
+34,Female,157,99,40.2,Active,Home Workouts,42,Field work,7.0,Vegan,None,Hypertension,Maintenance,99,45,2374,101,"Cardio, Balanced Diet",7.5,42
+35,Other,166,79,28.7,Active,Home Workouts,32,Shift work,4.2,Vegetarian,None,None,Maintenance,79,145,2142,108,"Cardio, Balanced Diet",7.5,32
+69,Female,193,80,21.5,Sedentary,Sports,49,Desk job,8.3,Vegetarian,Dairy,None,Maintenance,80,104,2097,115,"Cardio, Balanced Diet",7.5,49
+26,Other,161,82,31.6,Sedentary,Gym,76,Student,5.4,Non-Vegetarian,None,None,Muscle Gain,89,168,2602,192,"Weightlifting, Protein Diet",7.5,76
+48,Male,182,81,24.5,Lightly Active,Home Workouts,59,Shift work,8.6,Non-Vegetarian,None,None,Endurance,81,83,2399,140,"Endurance Training, Balanced Meals",7.5,59
+66,Other,160,73,28.5,Sedentary,Home Workouts,85,Shift work,4.2,Vegan,None,None,Maintenance,73,57,2449,137,"Cardio, Balanced Diet",7.5,85
+54,Other,153,71,30.3,Lightly Active,Gym,62,Student,8.8,Keto,None,None,Endurance,71,112,2385,134,"Endurance Training, Balanced Meals",7.5,62
+63,Other,177,50,16.0,Lightly Active,Walking,67,Student,6.7,Keto,None,None,Endurance,50,166,2566,115,"Endurance Training, Balanced Meals",7.5,67
+29,Other,173,104,34.7,Lightly Active,Home Workouts,44,Shift work,6.5,Non-Vegetarian,None,None,Weight Loss,90,177,1947,139,"HIIT, Walking",7.5,44
+27,Other,152,73,31.6,Sedentary,Yoga,77,Shift work,4.3,Vegan,None,Asthma,Endurance,73,55,2374,133,"Endurance Training, Balanced Meals",7.5,77
+40,Other,199,69,17.4,Very Active,Sports,67,Shift work,4.5,Non-Vegetarian,None,None,Muscle Gain,78,113,2932,171,"Weightlifting, Protein Diet",7.5,67
+38,Female,182,101,30.5,Lightly Active,Home Workouts,34,Field work,5.5,Keto,Gluten,None,Endurance,101,150,2577,104,"Endurance Training, Balanced Meals",7.5,34
+23,Male,192,97,26.3,Very Active,Sports,37,Desk job,8.1,Non-Vegetarian,None,None,Endurance,97,167,2544,148,"Endurance Training, Balanced Meals",7.5,37
+25,Other,160,54,21.1,Lightly Active,Home Workouts,72,Shift work,5.8,Vegan,Soy,None,Weight Loss,48,133,1687,129,"HIIT, Walking",7.5,72
+28,Other,175,62,20.2,Active,Home Workouts,73,Student,8.9,Vegetarian,None,Diabetes,Endurance,62,60,2251,124,"Endurance Training, Balanced Meals",7.5,73
+29,Male,171,89,30.4,Sedentary,Gym,84,Desk job,6.9,Non-Vegetarian,Dairy,Diabetes,Muscle Gain,96,37,2689,196,"Weightlifting, Protein Diet",7.5,84
+34,Male,175,62,20.2,Sedentary,Gym,64,Field work,6.8,Non-Vegetarian,None,Asthma,Muscle Gain,71,56,2768,198,"Weightlifting, Protein Diet",7.5,64
+48,Male,184,109,32.2,Lightly Active,Home Workouts,77,Desk job,6.1,Non-Vegetarian,None,None,Endurance,109,163,2397,149,"Endurance Training, Balanced Meals",7.5,77
+35,Male,163,63,23.7,Sedentary,Sports,34,Shift work,7.9,Vegan,None,None,Maintenance,63,177,2099,134,"Cardio, Balanced Diet",7.5,34
+49,Female,197,93,24.0,Very Active,Home Workouts,36,Shift work,5.3,Vegetarian,None,Diabetes,Muscle Gain,99,157,2897,186,"Weightlifting, Protein Diet",7.5,36
+65,Other,196,53,13.8,Very Active,Yoga,35,Field work,4.8,Non-Vegetarian,None,Asthma,Maintenance,53,32,2245,107,"Cardio, Balanced Diet",7.5,35
+41,Other,192,80,21.7,Sedentary,Home Workouts,85,Student,4.3,Keto,Nuts,None,Weight Loss,73,59,1957,137,"HIIT, Walking",7.5,85
+35,Female,154,102,43.0,Sedentary,Sports,62,Field work,4.7,Vegetarian,None,Hypertension,Weight Loss,94,122,1906,105,"HIIT, Walking",7.5,62
+49,Female,167,64,22.9,Very Active,Walking,25,Student,8.4,Vegan,None,None,Weight Loss,56,110,1796,118,"HIIT, Walking",7.5,25
+22,Female,155,84,35.0,Lightly Active,Gym,41,Student,7.1,Vegetarian,Soy,None,Endurance,84,105,2286,113,"Endurance Training, Balanced Meals",7.5,41
+50,Female,198,108,27.5,Sedentary,Gym,42,Field work,7.1,Vegan,None,None,Maintenance,108,59,2280,127,"Cardio, Balanced Diet",7.5,42
+51,Male,197,96,24.7,Sedentary,Walking,77,Field work,4.5,Vegetarian,None,None,Endurance,96,39,2298,110,"Endurance Training, Balanced Meals",7.5,77
+28,Male,170,71,24.6,Sedentary,Gym,83,Field work,8.3,Keto,None,Hypertension,Maintenance,71,104,2271,148,"Cardio, Balanced Diet",7.5,83
+68,Female,184,102,30.1,Active,Walking,35,Field work,7.9,Vegan,None,None,Endurance,102,106,2587,138,"Endurance Training, Balanced Meals",7.5,35
+19,Female,176,76,24.5,Active,Sports,31,Desk job,8.2,Vegetarian,None,None,Endurance,76,37,2524,125,"Endurance Training, Balanced Meals",7.5,31
+33,Female,178,96,30.3,Very Active,Home Workouts,49,Shift work,5.1,Non-Vegetarian,None,Asthma,Weight Loss,87,58,1694,114,"HIIT, Walking",7.5,49
+53,Other,195,101,26.6,Active,Home Workouts,40,Student,5.5,Vegan,None,None,Muscle Gain,109,159,2905,181,"Weightlifting, Protein Diet",7.5,40
+33,Female,154,103,43.4,Very Active,Home Workouts,38,Shift work,8.0,Vegan,None,None,Muscle Gain,111,140,2919,158,"Weightlifting, Protein Diet",7.5,38
+56,Other,168,87,30.8,Lightly Active,Sports,76,Student,7.4,Keto,None,None,Maintenance,87,155,2074,136,"Cardio, Balanced Diet",7.5,76
+39,Female,153,78,33.3,Very Active,Walking,61,Desk job,4.8,Vegan,None,None,Maintenance,78,157,2162,120,"Cardio, Balanced Diet",7.5,61
+48,Other,180,102,31.5,Very Active,Walking,78,Student,6.2,Non-Vegetarian,None,None,Endurance,102,45,2501,138,"Endurance Training, Balanced Meals",7.5,78
+48,Other,173,50,16.7,Active,Home Workouts,23,Shift work,4.1,Non-Vegetarian,None,None,Maintenance,50,121,2479,100,"Cardio, Balanced Diet",7.5,23
+64,Male,191,56,15.4,Lightly Active,Walking,43,Student,4.5,Non-Vegetarian,None,None,Maintenance,56,41,2194,141,"Cardio, Balanced Diet",7.5,43
+44,Male,151,98,43.0,Very Active,Walking,79,Field work,6.1,Non-Vegetarian,None,None,Muscle Gain,106,71,2795,182,"Weightlifting, Protein Diet",7.5,79
+30,Male,191,96,26.3,Sedentary,Home Workouts,41,Desk job,8.2,Vegan,None,Hypertension,Endurance,96,118,2521,111,"Endurance Training, Balanced Meals",7.5,41
+57,Male,161,75,28.9,Sedentary,Walking,67,Student,6.4,Non-Vegetarian,None,None,Endurance,75,159,2358,113,"Endurance Training, Balanced Meals",7.5,67
+19,Male,164,61,22.7,Sedentary,Sports,43,Desk job,4.3,Non-Vegetarian,Dairy,None,Muscle Gain,67,105,2649,155,"Weightlifting, Protein Diet",7.5,43
+53,Male,185,71,20.7,Lightly Active,Home Workouts,75,Desk job,5.5,Vegetarian,None,Hypertension,Maintenance,71,138,2122,115,"Cardio, Balanced Diet",7.5,75
+22,Male,189,100,28.0,Lightly Active,Sports,35,Desk job,7.3,Non-Vegetarian,None,None,Maintenance,100,73,2400,140,"Cardio, Balanced Diet",7.5,35
+64,Female,154,94,39.6,Active,Sports,62,Desk job,4.1,Vegan,None,None,Muscle Gain,103,64,2632,158,"Weightlifting, Protein Diet",7.5,62
+46,Female,174,80,26.4,Lightly Active,Walking,64,Desk job,5.9,Vegetarian,None,None,Endurance,80,116,2295,110,"Endurance Training, Balanced Meals",7.5,64
+56,Other,173,60,20.0,Sedentary,Walking,35,Shift work,8.5,Vegan,Dairy,None,Maintenance,60,158,2336,101,"Cardio, Balanced Diet",7.5,35
+46,Female,157,78,31.6,Very Active,Yoga,52,Shift work,7.7,Vegetarian,None,None,Weight Loss,70,102,1666,103,"HIIT, Walking",7.5,52
+68,Female,168,87,30.8,Active,Home Workouts,62,Desk job,7.4,Vegetarian,None,None,Weight Loss,77,72,1710,107,"HIIT, Walking",7.5,62
+69,Female,175,97,31.7,Active,Walking,42,Shift work,5.4,Vegetarian,None,None,Maintenance,97,41,2206,130,"Cardio, Balanced Diet",7.5,42
+31,Other,175,91,29.7,Active,Yoga,57,Field work,6.5,Keto,None,None,Weight Loss,77,94,1854,139,"HIIT, Walking",7.5,57
+25,Other,196,105,27.3,Active,Yoga,80,Student,4.9,Non-Vegetarian,Gluten,None,Maintenance,105,146,2420,145,"Cardio, Balanced Diet",7.5,80
+41,Male,162,74,28.2,Sedentary,Gym,23,Shift work,8.7,Vegan,None,None,Muscle Gain,79,52,2997,177,"Weightlifting, Protein Diet",7.5,23
+60,Other,175,74,24.2,Lightly Active,Home Workouts,55,Field work,4.8,Non-Vegetarian,None,None,Muscle Gain,82,122,2672,164,"Weightlifting, Protein Diet",7.5,55
+63,Male,187,91,26.0,Active,Home Workouts,83,Field work,7.2,Non-Vegetarian,None,None,Maintenance,91,51,2336,117,"Cardio, Balanced Diet",7.5,83
+66,Male,159,59,23.3,Sedentary,Home Workouts,69,Field work,8.3,Vegetarian,None,None,Muscle Gain,67,174,2631,192,"Weightlifting, Protein Diet",7.5,69
+43,Male,156,79,32.5,Lightly Active,Gym,80,Shift work,4.6,Keto,Dairy,None,Maintenance,79,72,2282,131,"Cardio, Balanced Diet",7.5,80
+31,Male,167,77,27.6,Very Active,Home Workouts,35,Shift work,4.8,Vegan,None,None,Maintenance,77,77,2429,125,"Cardio, Balanced Diet",7.5,35
+65,Other,190,53,14.7,Lightly Active,Yoga,85,Student,8.6,Keto,Gluten,None,Maintenance,53,30,2382,125,"Cardio, Balanced Diet",7.5,85
+40,Female,194,55,14.6,Lightly Active,Sports,43,Field work,6.3,Non-Vegetarian,None,Hypertension,Weight Loss,41,62,1957,136,"HIIT, Walking",7.5,43
+29,Female,179,76,23.7,Active,Gym,40,Student,8.1,Vegetarian,None,None,Muscle Gain,84,146,2671,167,"Weightlifting, Protein Diet",7.5,40
+20,Other,192,67,18.2,Very Active,Home Workouts,77,Desk job,8.2,Vegan,Dairy,Asthma,Muscle Gain,75,142,2597,178,"Weightlifting, Protein Diet",7.5,77
+41,Female,151,93,40.8,Active,Walking,44,Shift work,7.0,Vegan,None,Asthma,Maintenance,93,148,2432,108,"Cardio, Balanced Diet",7.5,44
+62,Female,181,54,16.5,Active,Home Workouts,61,Desk job,6.6,Non-Vegetarian,None,None,Maintenance,54,152,2366,102,"Cardio, Balanced Diet",7.5,61
+36,Female,177,78,24.9,Active,Yoga,25,Student,6.0,Vegetarian,Soy,Asthma,Endurance,78,151,2539,146,"Endurance Training, Balanced Meals",7.5,25
+21,Other,170,52,18.0,Sedentary,Home Workouts,86,Student,5.0,Non-Vegetarian,Soy,None,Maintenance,52,100,2101,133,"Cardio, Balanced Diet",7.5,86
+58,Female,173,98,32.7,Sedentary,Sports,20,Field work,8.7,Non-Vegetarian,None,None,Muscle Gain,106,118,2964,175,"Weightlifting, Protein Diet",7.5,20
+63,Female,190,85,23.5,Sedentary,Yoga,25,Shift work,7.6,Vegetarian,None,None,Muscle Gain,93,175,2814,177,"Weightlifting, Protein Diet",7.5,25
+68,Other,181,96,29.3,Sedentary,Sports,87,Field work,8.9,Keto,Soy,None,Endurance,96,53,2631,138,"Endurance Training, Balanced Meals",7.5,87
+47,Male,162,54,20.6,Sedentary,Sports,85,Field work,6.7,Non-Vegetarian,None,Diabetes,Weight Loss,48,140,1748,110,"HIIT, Walking",7.5,85
+36,Other,188,102,28.9,Lightly Active,Home Workouts,63,Student,6.0,Vegan,Gluten,None,Endurance,102,48,2537,111,"Endurance Training, Balanced Meals",7.5,63
+45,Other,182,68,20.5,Very Active,Yoga,71,Desk job,4.9,Vegetarian,None,None,Maintenance,68,109,2293,112,"Cardio, Balanced Diet",7.5,71
+40,Female,171,65,22.2,Very Active,Yoga,79,Desk job,4.7,Keto,Gluten,None,Muscle Gain,74,94,2633,172,"Weightlifting, Protein Diet",7.5,79
+68,Other,192,92,25.0,Active,Home Workouts,37,Shift work,5.2,Vegetarian,None,None,Weight Loss,86,117,1870,146,"HIIT, Walking",7.5,37
+57,Other,191,56,15.4,Lightly Active,Sports,25,Shift work,7.5,Vegetarian,None,None,Endurance,56,141,2500,112,"Endurance Training, Balanced Meals",7.5,25
+66,Other,169,86,30.1,Lightly Active,Home Workouts,36,Student,6.6,Vegetarian,None,None,Maintenance,86,67,2389,144,"Cardio, Balanced Diet",7.5,36
+28,Female,151,89,39.0,Active,Home Workouts,43,Shift work,7.1,Vegetarian,None,None,Maintenance,89,30,2483,124,"Cardio, Balanced Diet",7.5,43
+62,Male,192,83,22.5,Sedentary,Walking,38,Shift work,6.1,Keto,None,None,Muscle Gain,90,109,2735,189,"Weightlifting, Protein Diet",7.5,38
+35,Female,174,94,31.0,Lightly Active,Home Workouts,89,Student,8.2,Vegan,None,None,Muscle Gain,99,47,2943,173,"Weightlifting, Protein Diet",7.5,89
+69,Male,158,80,32.0,Active,Sports,82,Student,7.3,Vegetarian,None,None,Maintenance,80,128,2376,104,"Cardio, Balanced Diet",7.5,82
+22,Other,167,96,34.4,Lightly Active,Home Workouts,32,Student,9.0,Non-Vegetarian,None,None,Maintenance,96,139,2255,108,"Cardio, Balanced Diet",7.5,32
+47,Male,160,84,32.8,Sedentary,Home Workouts,61,Desk job,5.0,Vegetarian,None,None,Endurance,84,102,2507,106,"Endurance Training, Balanced Meals",7.5,61
+19,Female,172,88,29.7,Very Active,Home Workouts,42,Desk job,5.5,Vegan,Dairy,None,Maintenance,88,49,2235,116,"Cardio, Balanced Diet",7.5,42
+62,Female,174,62,20.5,Lightly Active,Sports,89,Shift work,5.6,Non-Vegetarian,None,None,Weight Loss,55,88,1943,118,"HIIT, Walking",7.5,89
+64,Female,165,73,26.8,Sedentary,Sports,34,Desk job,5.6,Vegan,Dairy,None,Muscle Gain,81,36,2529,168,"Weightlifting, Protein Diet",7.5,34
+66,Male,165,96,35.3,Lightly Active,Yoga,61,Desk job,5.5,Vegetarian,Dairy,Diabetes,Endurance,96,35,2607,117,"Endurance Training, Balanced Meals",7.5,61
+40,Female,178,74,23.4,Active,Gym,65,Student,5.2,Vegan,None,None,Maintenance,74,104,2165,113,"Cardio, Balanced Diet",7.5,65
+68,Female,197,70,18.0,Lightly Active,Yoga,70,Student,5.4,Non-Vegetarian,Dairy,None,Weight Loss,58,85,1695,134,"HIIT, Walking",7.5,70
+20,Female,194,89,23.6,Active,Yoga,20,Shift work,5.1,Vegan,None,None,Maintenance,89,71,2372,132,"Cardio, Balanced Diet",7.5,20
+67,Other,185,86,25.1,Sedentary,Yoga,67,Desk job,8.9,Vegan,Gluten,None,Endurance,86,43,2646,147,"Endurance Training, Balanced Meals",7.5,67
+48,Other,166,109,39.6,Very Active,Sports,42,Field work,6.0,Non-Vegetarian,None,None,Maintenance,109,44,2049,135,"Cardio, Balanced Diet",7.5,42
+25,Other,152,96,41.6,Sedentary,Gym,80,Student,9.0,Keto,None,Hypertension,Muscle Gain,104,107,2876,178,"Weightlifting, Protein Diet",7.5,80
+51,Female,156,78,32.1,Active,Home Workouts,44,Field work,4.3,Vegan,None,None,Muscle Gain,83,85,2593,178,"Weightlifting, Protein Diet",7.5,44
+37,Male,171,84,28.7,Sedentary,Walking,62,Desk job,5.4,Vegan,Gluten,None,Muscle Gain,89,98,2568,169,"Weightlifting, Protein Diet",7.5,62
+33,Other,190,86,23.8,Very Active,Gym,88,Field work,5.1,Vegetarian,None,None,Muscle Gain,92,139,2596,167,"Weightlifting, Protein Diet",7.5,88
+24,Male,182,50,15.1,Very Active,Sports,23,Desk job,5.7,Vegan,Gluten,Diabetes,Muscle Gain,55,99,2817,165,"Weightlifting, Protein Diet",7.5,23
+51,Other,199,91,23.0,Very Active,Gym,32,Student,8.0,Vegetarian,Gluten,None,Weight Loss,77,108,1645,122,"HIIT, Walking",7.5,32
+68,Female,183,107,32.0,Very Active,Yoga,37,Field work,6.8,Non-Vegetarian,None,None,Muscle Gain,112,81,2869,192,"Weightlifting, Protein Diet",7.5,37
+46,Male,175,63,20.6,Sedentary,Yoga,66,Student,8.8,Keto,Dairy,None,Endurance,63,101,2264,148,"Endurance Training, Balanced Meals",7.5,66
+66,Other,156,68,27.9,Lightly Active,Gym,74,Student,6.1,Non-Vegetarian,None,Hypertension,Muscle Gain,77,71,2597,150,"Weightlifting, Protein Diet",7.5,74
+48,Female,197,67,17.3,Active,Walking,36,Field work,5.6,Vegetarian,Dairy,Hypertension,Maintenance,67,85,2374,118,"Cardio, Balanced Diet",7.5,36
+61,Female,184,99,29.2,Sedentary,Gym,71,Desk job,6.7,Vegetarian,None,None,Weight Loss,90,45,1991,139,"HIIT, Walking",7.5,71
+43,Male,185,59,17.2,Very Active,Yoga,36,Desk job,8.0,Vegan,None,None,Maintenance,59,75,2492,103,"Cardio, Balanced Diet",7.5,36
+31,Female,165,56,20.6,Very Active,Yoga,21,Field work,5.0,Vegetarian,None,Diabetes,Endurance,56,134,2539,100,"Endurance Training, Balanced Meals",7.5,21
+64,Male,155,68,28.3,Lightly Active,Home Workouts,42,Shift work,5.4,Vegan,None,Hypertension,Weight Loss,60,138,1554,126,"HIIT, Walking",7.5,42
+22,Male,151,104,45.6,Lightly Active,Gym,57,Shift work,6.4,Vegetarian,None,None,Maintenance,104,63,2096,140,"Cardio, Balanced Diet",7.5,57
+58,Other,156,52,21.4,Lightly Active,Walking,62,Shift work,8.1,Vegetarian,None,None,Maintenance,52,39,2070,125,"Cardio, Balanced Diet",7.5,62
+51,Female,185,70,20.5,Lightly Active,Sports,82,Shift work,5.5,Keto,Nuts,None,Endurance,70,44,2261,126,"Endurance Training, Balanced Meals",7.5,82
+45,Male,195,108,28.4,Lightly Active,Walking,21,Shift work,4.5,Vegan,None,None,Endurance,108,51,2646,125,"Endurance Training, Balanced Meals",7.5,21
+50,Other,159,74,29.3,Sedentary,Yoga,57,Desk job,4.4,Keto,None,None,Endurance,74,86,2329,131,"Endurance Training, Balanced Meals",7.5,57
+41,Male,153,66,28.2,Sedentary,Home Workouts,69,Student,6.9,Non-Vegetarian,Gluten,None,Maintenance,66,103,2364,116,"Cardio, Balanced Diet",7.5,69
+35,Female,197,69,17.8,Sedentary,Home Workouts,36,Desk job,8.5,Vegetarian,None,Hypertension,Endurance,69,149,2575,146,"Endurance Training, Balanced Meals",7.5,36
+60,Male,162,64,24.4,Active,Sports,38,Field work,8.6,Vegetarian,None,None,Weight Loss,58,160,1949,132,"HIIT, Walking",7.5,38
+59,Other,166,93,33.7,Sedentary,Sports,68,Student,5.7,Vegan,Gluten,Asthma,Endurance,93,81,2555,106,"Endurance Training, Balanced Meals",7.5,68
+63,Female,185,65,19.0,Very Active,Home Workouts,73,Field work,6.2,Vegetarian,None,None,Muscle Gain,74,121,2633,165,"Weightlifting, Protein Diet",7.5,73
+37,Other,190,63,17.5,Active,Walking,52,Field work,4.1,Keto,None,Hypertension,Weight Loss,49,31,1897,143,"HIIT, Walking",7.5,52
+47,Male,161,75,28.9,Very Active,Gym,32,Field work,5.3,Non-Vegetarian,None,None,Endurance,75,95,2433,108,"Endurance Training, Balanced Meals",7.5,32
+40,Other,162,72,27.4,Sedentary,Sports,21,Student,8.3,Non-Vegetarian,None,Diabetes,Muscle Gain,80,107,2771,168,"Weightlifting, Protein Diet",7.5,21
+51,Male,195,55,14.5,Sedentary,Sports,41,Field work,5.6,Vegan,None,None,Endurance,55,100,2679,147,"Endurance Training, Balanced Meals",7.5,41
+36,Female,169,76,26.6,Sedentary,Yoga,67,Shift work,8.2,Vegan,None,Asthma,Weight Loss,65,66,1508,114,"HIIT, Walking",7.5,67
+20,Male,155,66,27.5,Lightly Active,Home Workouts,40,Desk job,6.8,Keto,Nuts,Diabetes,Maintenance,66,43,2013,109,"Cardio, Balanced Diet",7.5,40
+29,Female,193,104,27.9,Lightly Active,Walking,60,Field work,7.6,Vegetarian,Gluten,Asthma,Weight Loss,93,33,1925,112,"HIIT, Walking",7.5,60
+51,Female,170,71,24.6,Sedentary,Sports,88,Shift work,8.6,Vegetarian,Gluten,None,Weight Loss,64,40,1946,111,"HIIT, Walking",7.5,88
+26,Female,157,107,43.4,Active,Sports,72,Student,5.0,Keto,None,Diabetes,Muscle Gain,115,43,2739,199,"Weightlifting, Protein Diet",7.5,72
+38,Female,170,93,32.2,Lightly Active,Sports,26,Desk job,5.6,Non-Vegetarian,Dairy,Asthma,Muscle Gain,101,103,2874,155,"Weightlifting, Protein Diet",7.5,26
+34,Other,199,87,22.0,Very Active,Yoga,29,Student,8.9,Keto,None,None,Maintenance,87,62,2442,117,"Cardio, Balanced Diet",7.5,29
+45,Male,181,61,18.6,Very Active,Walking,46,Field work,6.5,Keto,None,Hypertension,Weight Loss,50,86,1679,139,"HIIT, Walking",7.5,46
+40,Male,180,56,17.3,Very Active,Gym,21,Field work,4.5,Vegetarian,None,None,Muscle Gain,65,175,2609,173,"Weightlifting, Protein Diet",7.5,21
+25,Male,179,93,29.0,Sedentary,Walking,71,Desk job,8.8,Non-Vegetarian,None,None,Weight Loss,81,118,1823,141,"HIIT, Walking",7.5,71
+36,Female,186,79,22.8,Active,Walking,42,Shift work,5.4,Vegetarian,None,None,Weight Loss,67,47,1556,147,"HIIT, Walking",7.5,42
+22,Female,179,103,32.1,Sedentary,Yoga,48,Shift work,8.3,Vegan,None,Diabetes,Muscle Gain,110,137,2655,167,"Weightlifting, Protein Diet",7.5,48
+30,Male,171,61,20.9,Lightly Active,Home Workouts,26,Field work,8.3,Keto,None,None,Endurance,61,102,2231,114,"Endurance Training, Balanced Meals",7.5,26
+54,Male,154,60,25.3,Lightly Active,Sports,60,Desk job,5.6,Vegan,None,Hypertension,Endurance,60,128,2454,114,"Endurance Training, Balanced Meals",7.5,60
+65,Male,155,50,20.8,Very Active,Yoga,45,Desk job,4.2,Vegetarian,None,None,Weight Loss,39,152,1643,129,"HIIT, Walking",7.5,45
+21,Other,191,74,20.3,Very Active,Sports,28,Student,6.0,Keto,None,Asthma,Weight Loss,68,139,1725,112,"HIIT, Walking",7.5,28
+56,Female,194,97,25.8,Lightly Active,Yoga,61,Field work,5.4,Vegetarian,None,None,Weight Loss,90,103,1670,114,"HIIT, Walking",7.5,61
+55,Other,154,78,32.9,Active,Yoga,29,Student,8.8,Vegan,None,Diabetes,Weight Loss,67,127,1919,136,"HIIT, Walking",7.5,29
+20,Male,167,92,33.0,Active,Gym,23,Desk job,7.0,Vegetarian,None,None,Endurance,92,105,2315,104,"Endurance Training, Balanced Meals",7.5,23
+51,Female,150,88,39.1,Very Active,Walking,36,Student,8.8,Keto,None,Asthma,Maintenance,88,119,2048,137,"Cardio, Balanced Diet",7.5,36
+40,Female,153,98,41.9,Active,Gym,87,Shift work,5.3,Vegetarian,None,None,Maintenance,98,140,2167,147,"Cardio, Balanced Diet",7.5,87
+68,Other,183,104,31.1,Very Active,Gym,76,Shift work,7.6,Vegan,None,None,Endurance,104,142,2541,149,"Endurance Training, Balanced Meals",7.5,76
+67,Other,198,61,15.6,Active,Home Workouts,75,Student,8.4,Vegan,None,None,Endurance,61,45,2364,120,"Endurance Training, Balanced Meals",7.5,75
+32,Male,199,86,21.7,Sedentary,Yoga,49,Desk job,5.0,Non-Vegetarian,None,Diabetes,Maintenance,86,138,2299,106,"Cardio, Balanced Diet",7.5,49
+61,Male,153,108,46.1,Lightly Active,Walking,88,Shift work,8.9,Non-Vegetarian,None,None,Muscle Gain,114,39,2857,176,"Weightlifting, Protein Diet",7.5,88
+68,Male,157,50,20.3,Very Active,Gym,49,Desk job,4.4,Vegetarian,Gluten,None,Maintenance,50,81,2444,139,"Cardio, Balanced Diet",7.5,49
+55,Other,168,85,30.1,Lightly Active,Gym,32,Field work,7.0,Non-Vegetarian,None,None,Muscle Gain,93,39,2594,155,"Weightlifting, Protein Diet",7.5,32
+18,Other,176,70,22.6,Very Active,Sports,39,Field work,5.4,Keto,None,None,Maintenance,70,86,2092,118,"Cardio, Balanced Diet",7.5,39
+50,Male,194,52,13.8,Lightly Active,Home Workouts,59,Shift work,7.7,Vegetarian,None,None,Endurance,52,138,2553,120,"Endurance Training, Balanced Meals",7.5,59
+65,Other,155,100,41.6,Sedentary,Home Workouts,85,Shift work,8.7,Vegan,None,None,Maintenance,100,49,2328,116,"Cardio, Balanced Diet",7.5,85
+44,Other,151,85,37.3,Active,Gym,88,Shift work,8.3,Non-Vegetarian,None,None,Endurance,85,161,2685,124,"Endurance Training, Balanced Meals",7.5,88
+22,Female,161,53,20.4,Very Active,Home Workouts,87,Shift work,4.5,Vegetarian,None,Hypertension,Endurance,53,46,2485,123,"Endurance Training, Balanced Meals",7.5,87
+28,Other,172,66,22.3,Sedentary,Sports,28,Shift work,4.2,Keto,Gluten,None,Maintenance,66,138,2075,119,"Cardio, Balanced Diet",7.5,28
+18,Male,198,94,24.0,Sedentary,Walking,66,Shift work,4.0,Non-Vegetarian,None,None,Endurance,94,56,2419,117,"Endurance Training, Balanced Meals",7.5,66
+56,Male,178,67,21.1,Very Active,Walking,55,Field work,4.7,Vegan,None,Asthma,Muscle Gain,74,64,2581,154,"Weightlifting, Protein Diet",7.5,55
+31,Female,153,88,37.6,Very Active,Gym,47,Student,4.8,Non-Vegetarian,None,None,Endurance,88,154,2365,103,"Endurance Training, Balanced Meals",7.5,47
+32,Male,150,56,24.9,Sedentary,Sports,24,Student,5.0,Non-Vegetarian,Gluten,None,Muscle Gain,62,137,2621,166,"Weightlifting, Protein Diet",7.5,24
+21,Other,190,80,22.2,Active,Sports,53,Field work,6.5,Vegetarian,Gluten,None,Endurance,80,44,2277,105,"Endurance Training, Balanced Meals",7.5,53
+67,Male,199,81,20.5,Active,Yoga,70,Shift work,4.3,Vegetarian,None,None,Endurance,81,95,2203,109,"Endurance Training, Balanced Meals",7.5,70
+56,Male,155,68,28.3,Sedentary,Walking,28,Shift work,6.5,Vegetarian,None,Hypertension,Maintenance,68,32,2323,136,"Cardio, Balanced Diet",7.5,28
+57,Female,184,80,23.6,Very Active,Sports,59,Desk job,8.3,Non-Vegetarian,None,None,Endurance,80,128,2536,140,"Endurance Training, Balanced Meals",7.5,59
+19,Male,162,101,38.5,Lightly Active,Sports,62,Shift work,7.8,Vegan,None,Asthma,Endurance,101,169,2415,104,"Endurance Training, Balanced Meals",7.5,62
+37,Other,188,62,17.5,Sedentary,Gym,72,Desk job,7.0,Keto,None,None,Muscle Gain,71,64,2758,154,"Weightlifting, Protein Diet",7.5,72
+43,Other,156,102,41.9,Very Active,Walking,53,Shift work,4.3,Vegan,None,None,Muscle Gain,107,49,2940,183,"Weightlifting, Protein Diet",7.5,53
+67,Male,161,56,21.6,Active,Gym,64,Shift work,4.8,Vegan,None,Diabetes,Muscle Gain,64,118,2834,198,"Weightlifting, Protein Diet",7.5,64
+46,Male,198,101,25.8,Sedentary,Walking,24,Shift work,8.1,Non-Vegetarian,None,None,Maintenance,101,93,2137,114,"Cardio, Balanced Diet",7.5,24
+59,Other,197,93,24.0,Lightly Active,Gym,35,Field work,6.9,Non-Vegetarian,Dairy,None,Weight Loss,84,148,1591,138,"HIIT, Walking",7.5,35
+62,Male,176,79,25.5,Lightly Active,Home Workouts,46,Field work,5.3,Non-Vegetarian,Dairy,None,Weight Loss,68,82,1898,131,"HIIT, Walking",7.5,46
+43,Other,168,58,20.5,Very Active,Home Workouts,73,Desk job,4.9,Vegan,Soy,None,Endurance,58,58,2571,110,"Endurance Training, Balanced Meals",7.5,73
+50,Female,160,76,29.7,Sedentary,Home Workouts,58,Shift work,5.7,Non-Vegetarian,None,Asthma,Muscle Gain,83,128,2790,180,"Weightlifting, Protein Diet",7.5,58
+45,Other,150,74,32.9,Active,Sports,86,Shift work,5.8,Non-Vegetarian,None,None,Muscle Gain,83,38,2757,183,"Weightlifting, Protein Diet",7.5,86
+55,Male,180,59,18.2,Lightly Active,Sports,55,Field work,8.7,Vegan,Soy,None,Muscle Gain,68,119,2729,193,"Weightlifting, Protein Diet",7.5,55
+43,Male,164,108,40.2,Very Active,Gym,35,Desk job,4.7,Vegan,Dairy,None,Maintenance,108,178,2321,126,"Cardio, Balanced Diet",7.5,35
+55,Female,187,95,27.2,Sedentary,Yoga,27,Desk job,6.8,Keto,None,None,Muscle Gain,104,49,2763,195,"Weightlifting, Protein Diet",7.5,27
+48,Female,178,97,30.6,Sedentary,Walking,29,Desk job,7.6,Keto,None,None,Muscle Gain,102,122,2835,187,"Weightlifting, Protein Diet",7.5,29
+45,Female,180,63,19.4,Sedentary,Gym,48,Shift work,5.3,Keto,None,Diabetes,Weight Loss,49,164,1541,135,"HIIT, Walking",7.5,48
+58,Other,195,51,13.4,Sedentary,Gym,46,Desk job,4.4,Non-Vegetarian,None,None,Maintenance,51,35,2124,105,"Cardio, Balanced Diet",7.5,46
+19,Female,167,72,25.8,Lightly Active,Sports,41,Desk job,6.5,Keto,None,None,Weight Loss,67,146,1615,144,"HIIT, Walking",7.5,41
+47,Male,196,52,13.5,Lightly Active,Yoga,83,Student,4.2,Vegetarian,None,None,Maintenance,52,53,2027,135,"Cardio, Balanced Diet",7.5,83
+33,Other,166,100,36.3,Lightly Active,Gym,30,Desk job,7.8,Vegan,Nuts,Hypertension,Weight Loss,86,104,1965,133,"HIIT, Walking",7.5,30
+56,Male,191,99,27.1,Active,Yoga,58,Shift work,5.3,Vegetarian,Dairy,None,Maintenance,99,31,2488,106,"Cardio, Balanced Diet",7.5,58
+49,Female,185,81,23.7,Very Active,Home Workouts,20,Student,4.9,Keto,Dairy,None,Maintenance,81,109,2313,118,"Cardio, Balanced Diet",7.5,20
+18,Male,171,73,25.0,Active,Home Workouts,72,Student,4.8,Keto,None,None,Endurance,73,175,2221,101,"Endurance Training, Balanced Meals",7.5,72
+38,Other,196,88,22.9,Sedentary,Walking,36,Student,6.6,Vegan,Dairy,Hypertension,Weight Loss,82,171,1558,132,"HIIT, Walking",7.5,36
+52,Female,188,107,30.3,Active,Yoga,21,Shift work,5.1,Vegan,Nuts,None,Endurance,107,58,2590,113,"Endurance Training, Balanced Meals",7.5,21
+29,Other,154,66,27.8,Lightly Active,Walking,51,Field work,8.7,Vegetarian,Dairy,Diabetes,Weight Loss,58,129,1645,108,"HIIT, Walking",7.5,51
+46,Male,199,63,15.9,Sedentary,Walking,48,Shift work,5.9,Non-Vegetarian,None,None,Maintenance,63,104,2269,102,"Cardio, Balanced Diet",7.5,48
+68,Female,191,87,23.8,Sedentary,Walking,77,Shift work,4.9,Keto,Soy,None,Endurance,87,148,2661,132,"Endurance Training, Balanced Meals",7.5,77
+45,Male,157,93,37.7,Lightly Active,Sports,24,Field work,8.9,Vegetarian,Soy,None,Muscle Gain,100,59,2613,161,"Weightlifting, Protein Diet",7.5,24
+46,Other,175,106,34.6,Sedentary,Gym,45,Field work,8.9,Non-Vegetarian,None,Diabetes,Maintenance,106,73,2162,122,"Cardio, Balanced Diet",7.5,45
+26,Female,190,93,25.8,Very Active,Sports,66,Field work,5.2,Vegetarian,Dairy,None,Endurance,93,103,2455,142,"Endurance Training, Balanced Meals",7.5,66
+42,Female,186,79,22.8,Active,Yoga,32,Shift work,6.4,Non-Vegetarian,Dairy,None,Endurance,79,78,2497,111,"Endurance Training, Balanced Meals",7.5,32
+66,Female,160,88,34.4,Lightly Active,Walking,37,Desk job,7.1,Keto,None,Asthma,Maintenance,88,143,2490,129,"Cardio, Balanced Diet",7.5,37
+25,Female,196,58,15.1,Active,Sports,44,Shift work,6.0,Vegan,None,None,Maintenance,58,69,2479,125,"Cardio, Balanced Diet",7.5,44
+44,Female,168,99,35.1,Lightly Active,Home Workouts,58,Student,7.6,Vegan,Dairy,None,Endurance,99,52,2334,125,"Endurance Training, Balanced Meals",7.5,58
+49,Male,191,77,21.1,Sedentary,Home Workouts,68,Field work,7.0,Vegan,Dairy,None,Maintenance,77,126,2234,117,"Cardio, Balanced Diet",7.5,68
+67,Male,179,75,23.4,Very Active,Home Workouts,58,Desk job,6.4,Vegetarian,None,None,Muscle Gain,81,135,2715,167,"Weightlifting, Protein Diet",7.5,58
+44,Male,157,77,31.2,Lightly Active,Gym,81,Desk job,5.3,Non-Vegetarian,None,Hypertension,Maintenance,77,169,2098,113,"Cardio, Balanced Diet",7.5,81
+39,Other,172,97,32.8,Active,Walking,32,Desk job,6.2,Vegetarian,None,None,Endurance,97,159,2608,112,"Endurance Training, Balanced Meals",7.5,32
+51,Other,183,84,25.1,Lightly Active,Yoga,78,Field work,5.8,Keto,None,None,Maintenance,84,102,2371,111,"Cardio, Balanced Diet",7.5,78
+22,Other,160,106,41.4,Lightly Active,Sports,88,Desk job,7.4,Vegan,None,None,Weight Loss,100,66,1672,115,"HIIT, Walking",7.5,88
+65,Other,171,85,29.1,Active,Walking,65,Desk job,5.2,Non-Vegetarian,None,None,Weight Loss,71,93,1742,101,"HIIT, Walking",7.5,65
+41,Other,151,87,38.2,Active,Yoga,45,Desk job,4.8,Non-Vegetarian,Gluten,None,Weight Loss,80,119,1901,108,"HIIT, Walking",7.5,45
+55,Other,170,106,36.7,Sedentary,Home Workouts,46,Field work,4.7,Vegan,Gluten,None,Weight Loss,101,156,1878,139,"HIIT, Walking",7.5,46
+69,Other,161,88,33.9,Very Active,Walking,65,Field work,8.8,Vegetarian,None,Hypertension,Maintenance,88,120,2496,101,"Cardio, Balanced Diet",7.5,65
+41,Other,182,88,26.6,Lightly Active,Home Workouts,79,Shift work,6.5,Vegetarian,None,None,Maintenance,88,31,2358,136,"Cardio, Balanced Diet",7.5,79
+38,Female,154,101,42.6,Sedentary,Home Workouts,39,Shift work,8.1,Keto,None,None,Endurance,101,55,2653,140,"Endurance Training, Balanced Meals",7.5,39
+20,Male,150,100,44.4,Sedentary,Home Workouts,38,Student,7.0,Vegetarian,Soy,None,Weight Loss,94,51,1858,112,"HIIT, Walking",7.5,38
+64,Female,152,109,47.2,Sedentary,Sports,50,Desk job,6.3,Non-Vegetarian,Dairy,None,Endurance,109,45,2697,111,"Endurance Training, Balanced Meals",7.5,50
+30,Male,191,88,24.1,Sedentary,Sports,28,Student,7.6,Keto,None,Hypertension,Endurance,88,44,2491,148,"Endurance Training, Balanced Meals",7.5,28
+22,Female,165,90,33.1,Lightly Active,Walking,68,Field work,8.3,Non-Vegetarian,None,None,Maintenance,90,58,2150,113,"Cardio, Balanced Diet",7.5,68
+32,Male,182,74,22.3,Sedentary,Gym,42,Desk job,5.8,Non-Vegetarian,None,None,Maintenance,74,132,2439,112,"Cardio, Balanced Diet",7.5,42
+35,Other,195,82,21.6,Active,Walking,52,Student,6.5,Vegetarian,Nuts,Hypertension,Endurance,82,130,2233,119,"Endurance Training, Balanced Meals",7.5,52
+42,Female,159,73,28.9,Sedentary,Yoga,35,Field work,4.9,Non-Vegetarian,None,None,Endurance,73,45,2623,111,"Endurance Training, Balanced Meals",7.5,35
+52,Male,170,99,34.3,Active,Sports,36,Student,5.2,Keto,None,Diabetes,Weight Loss,90,90,1921,102,"HIIT, Walking",7.5,36
+37,Female,188,82,23.2,Active,Gym,89,Desk job,7.7,Vegan,None,Asthma,Muscle Gain,88,60,2971,180,"Weightlifting, Protein Diet",7.5,89
+46,Female,181,66,20.1,Lightly Active,Sports,77,Student,4.6,Vegan,Soy,None,Endurance,66,145,2537,145,"Endurance Training, Balanced Meals",7.5,77
+35,Male,175,58,18.9,Very Active,Yoga,83,Student,5.3,Non-Vegetarian,None,None,Endurance,58,128,2434,110,"Endurance Training, Balanced Meals",7.5,83
+48,Male,197,88,22.7,Very Active,Yoga,31,Shift work,5.4,Vegetarian,None,Asthma,Maintenance,88,137,2129,119,"Cardio, Balanced Diet",7.5,31
+32,Female,199,87,22.0,Active,Yoga,47,Student,8.9,Keto,Dairy,Diabetes,Maintenance,87,79,2397,109,"Cardio, Balanced Diet",7.5,47
+52,Male,184,60,17.7,Active,Sports,86,Desk job,7.6,Keto,None,None,Weight Loss,46,44,1710,147,"HIIT, Walking",7.5,86
+39,Male,193,81,21.7,Lightly Active,Home Workouts,88,Student,4.3,Keto,None,Hypertension,Weight Loss,72,175,1852,107,"HIIT, Walking",7.5,88
+68,Male,166,92,33.4,Active,Walking,25,Field work,4.1,Keto,None,None,Muscle Gain,101,110,2979,156,"Weightlifting, Protein Diet",7.5,25
+47,Female,193,79,21.2,Sedentary,Yoga,25,Shift work,4.7,Vegetarian,None,None,Endurance,79,76,2662,110,"Endurance Training, Balanced Meals",7.5,25
+39,Female,173,50,16.7,Lightly Active,Sports,76,Shift work,4.4,Keto,None,Asthma,Maintenance,50,145,2092,141,"Cardio, Balanced Diet",7.5,76
+45,Other,167,63,22.6,Lightly Active,Sports,43,Student,6.5,Vegetarian,None,None,Endurance,63,34,2680,148,"Endurance Training, Balanced Meals",7.5,43
+51,Female,157,88,35.7,Active,Walking,76,Desk job,8.0,Vegan,None,Asthma,Maintenance,88,82,2241,137,"Cardio, Balanced Diet",7.5,76
+21,Female,167,93,33.3,Very Active,Gym,26,Field work,8.6,Vegan,None,None,Muscle Gain,101,112,2739,160,"Weightlifting, Protein Diet",7.5,26
+57,Other,172,56,18.9,Active,Home Workouts,53,Field work,7.6,Vegetarian,Gluten,None,Endurance,56,54,2571,113,"Endurance Training, Balanced Meals",7.5,53
+61,Male,168,88,31.2,Active,Yoga,82,Student,6.7,Vegan,Nuts,None,Muscle Gain,93,167,2838,179,"Weightlifting, Protein Diet",7.5,82
+39,Other,186,90,26.0,Lightly Active,Yoga,67,Field work,4.3,Non-Vegetarian,None,None,Weight Loss,84,140,1757,128,"HIIT, Walking",7.5,67
+50,Female,183,93,27.8,Active,Home Workouts,79,Desk job,8.2,Keto,None,Asthma,Endurance,93,30,2434,132,"Endurance Training, Balanced Meals",7.5,79
+57,Male,166,57,20.7,Sedentary,Walking,28,Student,7.7,Non-Vegetarian,Soy,None,Endurance,57,54,2522,145,"Endurance Training, Balanced Meals",7.5,28
+41,Female,195,71,18.7,Active,Yoga,54,Desk job,4.8,Keto,None,None,Endurance,71,63,2551,114,"Endurance Training, Balanced Meals",7.5,54
+61,Other,166,82,29.8,Active,Sports,28,Desk job,8.7,Vegetarian,None,None,Weight Loss,68,35,1747,112,"HIIT, Walking",7.5,28
+18,Male,196,95,24.7,Very Active,Walking,86,Shift work,6.3,Vegetarian,None,Hypertension,Muscle Gain,103,68,2552,175,"Weightlifting, Protein Diet",7.5,86
+31,Other,189,50,14.0,Very Active,Sports,49,Student,5.2,Vegetarian,None,None,Maintenance,50,81,2079,106,"Cardio, Balanced Diet",7.5,49
+39,Male,160,105,41.0,Sedentary,Walking,83,Shift work,4.9,Vegan,None,None,Muscle Gain,111,127,2992,162,"Weightlifting, Protein Diet",7.5,83
+53,Male,173,93,31.1,Sedentary,Walking,32,Shift work,6.3,Keto,Dairy,None,Endurance,93,62,2475,141,"Endurance Training, Balanced Meals",7.5,32
+29,Male,158,72,28.8,Very Active,Yoga,44,Desk job,7.6,Vegetarian,Dairy,Hypertension,Maintenance,72,83,2388,112,"Cardio, Balanced Diet",7.5,44
+45,Other,174,100,33.0,Active,Yoga,81,Desk job,5.3,Vegan,None,None,Weight Loss,92,120,1788,145,"HIIT, Walking",7.5,81
+34,Female,161,97,37.4,Lightly Active,Yoga,27,Shift work,8.6,Vegetarian,None,Asthma,Weight Loss,91,49,1515,116,"HIIT, Walking",7.5,27
+33,Other,157,87,35.3,Lightly Active,Home Workouts,50,Student,5.0,Vegan,None,None,Muscle Gain,95,125,2844,188,"Weightlifting, Protein Diet",7.5,50
+35,Other,181,55,16.8,Lightly Active,Sports,62,Student,4.3,Non-Vegetarian,None,None,Weight Loss,49,173,1891,124,"HIIT, Walking",7.5,62
+49,Female,175,101,33.0,Lightly Active,Yoga,29,Student,6.5,Vegetarian,Gluten,None,Weight Loss,90,166,1813,128,"HIIT, Walking",7.5,29
+33,Female,195,71,18.7,Very Active,Yoga,39,Shift work,5.0,Vegetarian,None,Hypertension,Endurance,71,60,2322,143,"Endurance Training, Balanced Meals",7.5,39
+51,Female,156,107,44.0,Sedentary,Gym,80,Shift work,5.2,Keto,None,None,Endurance,107,46,2514,109,"Endurance Training, Balanced Meals",7.5,80
+52,Female,194,93,24.7,Active,Yoga,81,Shift work,8.7,Vegan,None,Asthma,Muscle Gain,100,63,2983,186,"Weightlifting, Protein Diet",7.5,81
+34,Female,161,70,27.0,Very Active,Yoga,86,Field work,5.8,Keto,None,None,Endurance,70,175,2379,147,"Endurance Training, Balanced Meals",7.5,86
+60,Other,198,98,25.0,Very Active,Home Workouts,29,Shift work,6.1,Vegetarian,None,None,Endurance,98,53,2510,124,"Endurance Training, Balanced Meals",7.5,29
+24,Other,191,66,18.1,Sedentary,Gym,43,Shift work,4.2,Vegan,Dairy,Diabetes,Weight Loss,55,112,1989,136,"HIIT, Walking",7.5,43
+56,Male,161,83,32.0,Active,Yoga,50,Desk job,5.2,Vegetarian,Gluten,None,Weight Loss,77,132,1695,110,"HIIT, Walking",7.5,50
+46,Female,165,88,32.3,Sedentary,Home Workouts,40,Student,7.7,Vegan,None,Asthma,Muscle Gain,93,90,2525,156,"Weightlifting, Protein Diet",7.5,40
+56,Other,155,92,38.3,Sedentary,Yoga,85,Shift work,7.1,Non-Vegetarian,Dairy,Hypertension,Endurance,92,59,2654,108,"Endurance Training, Balanced Meals",7.5,85
+42,Male,150,100,44.4,Lightly Active,Walking,29,Student,7.8,Vegetarian,None,None,Endurance,100,60,2674,116,"Endurance Training, Balanced Meals",7.5,29
+63,Male,185,86,25.1,Lightly Active,Home Workouts,36,Field work,7.0,Non-Vegetarian,None,None,Endurance,86,35,2699,120,"Endurance Training, Balanced Meals",7.5,36
+30,Female,186,104,30.1,Sedentary,Walking,74,Shift work,4.0,Non-Vegetarian,None,None,Muscle Gain,112,37,2843,152,"Weightlifting, Protein Diet",7.5,74
+42,Other,182,51,15.4,Active,Sports,41,Field work,5.7,Vegetarian,None,None,Maintenance,51,150,2383,113,"Cardio, Balanced Diet",7.5,41
+41,Other,196,100,26.0,Active,Gym,67,Shift work,4.6,Keto,Gluten,Hypertension,Endurance,100,114,2256,122,"Endurance Training, Balanced Meals",7.5,67
+37,Other,183,59,17.6,Lightly Active,Yoga,89,Student,8.7,Vegan,None,None,Weight Loss,50,163,1820,105,"HIIT, Walking",7.5,89
+67,Female,190,73,20.2,Sedentary,Home Workouts,70,Student,4.6,Vegetarian,None,Diabetes,Weight Loss,65,40,1767,141,"HIIT, Walking",7.5,70
+67,Other,156,60,24.7,Very Active,Sports,50,Desk job,8.6,Vegetarian,None,None,Endurance,60,60,2510,140,"Endurance Training, Balanced Meals",7.5,50
+27,Female,187,64,18.3,Active,Yoga,50,Field work,8.5,Vegan,None,None,Endurance,64,167,2621,146,"Endurance Training, Balanced Meals",7.5,50
+67,Female,156,64,26.3,Lightly Active,Walking,21,Student,6.9,Vegan,None,None,Muscle Gain,73,168,2564,183,"Weightlifting, Protein Diet",7.5,21
+18,Other,151,70,30.7,Very Active,Home Workouts,40,Student,4.4,Keto,Gluten,None,Muscle Gain,75,53,2769,185,"Weightlifting, Protein Diet",7.5,40
+22,Other,173,109,36.4,Active,Home Workouts,43,Desk job,5.3,Non-Vegetarian,None,None,Weight Loss,104,104,1934,134,"HIIT, Walking",7.5,43
+60,Male,186,66,19.1,Lightly Active,Walking,47,Desk job,6.7,Keto,Gluten,Asthma,Endurance,66,71,2549,131,"Endurance Training, Balanced Meals",7.5,47
+49,Female,181,75,22.9,Active,Gym,75,Desk job,8.0,Non-Vegetarian,None,None,Maintenance,75,81,2090,108,"Cardio, Balanced Diet",7.5,75
+39,Female,195,98,25.8,Sedentary,Gym,72,Shift work,7.3,Keto,None,None,Endurance,98,179,2345,111,"Endurance Training, Balanced Meals",7.5,72
+59,Other,188,58,16.4,Lightly Active,Yoga,67,Field work,5.2,Keto,None,Diabetes,Weight Loss,47,154,1836,125,"HIIT, Walking",7.5,67
+39,Female,157,82,33.3,Lightly Active,Sports,79,Field work,4.1,Non-Vegetarian,None,None,Endurance,82,106,2288,112,"Endurance Training, Balanced Meals",7.5,79
+35,Male,173,51,17.0,Very Active,Gym,77,Shift work,7.9,Vegan,Dairy,None,Weight Loss,37,114,1892,146,"HIIT, Walking",7.5,77
+32,Other,154,90,37.9,Lightly Active,Gym,75,Shift work,8.8,Vegan,Dairy,None,Maintenance,90,38,2059,148,"Cardio, Balanced Diet",7.5,75
+50,Other,155,86,35.8,Active,Walking,60,Field work,8.5,Non-Vegetarian,None,None,Endurance,86,65,2247,120,"Endurance Training, Balanced Meals",7.5,60
+45,Female,165,71,26.1,Very Active,Yoga,61,Desk job,6.3,Non-Vegetarian,None,None,Weight Loss,60,50,1564,114,"HIIT, Walking",7.5,61
+21,Male,169,59,20.7,Active,Gym,53,Student,8.3,Vegetarian,None,Asthma,Muscle Gain,67,94,2832,150,"Weightlifting, Protein Diet",7.5,53
+22,Other,198,77,19.6,Active,Home Workouts,36,Desk job,4.5,Non-Vegetarian,None,None,Maintenance,77,90,2122,130,"Cardio, Balanced Diet",7.5,36
+34,Other,158,59,23.6,Very Active,Home Workouts,78,Field work,7.9,Non-Vegetarian,None,None,Endurance,59,159,2492,100,"Endurance Training, Balanced Meals",7.5,78
+21,Female,174,52,17.2,Sedentary,Sports,53,Shift work,7.9,Non-Vegetarian,None,Asthma,Muscle Gain,58,173,2703,150,"Weightlifting, Protein Diet",7.5,53
+25,Female,162,64,24.4,Sedentary,Sports,27,Field work,8.5,Non-Vegetarian,None,None,Maintenance,64,146,2298,119,"Cardio, Balanced Diet",7.5,27
+37,Male,167,106,38.0,Lightly Active,Walking,45,Field work,8.5,Vegan,Dairy,None,Weight Loss,96,107,1695,125,"HIIT, Walking",7.5,45
+64,Other,166,68,24.7,Sedentary,Yoga,89,Shift work,6.5,Keto,None,Hypertension,Endurance,68,85,2477,124,"Endurance Training, Balanced Meals",7.5,89
+36,Other,175,91,29.7,Sedentary,Sports,42,Shift work,6.0,Non-Vegetarian,None,None,Weight Loss,84,60,1584,131,"HIIT, Walking",7.5,42
+51,Other,190,97,26.9,Lightly Active,Walking,47,Desk job,7.8,Vegetarian,None,None,Muscle Gain,103,104,2769,187,"Weightlifting, Protein Diet",7.5,47
+29,Male,166,65,23.6,Active,Walking,60,Shift work,6.4,Keto,None,None,Muscle Gain,71,133,2669,167,"Weightlifting, Protein Diet",7.5,60
+47,Male,168,57,20.2,Very Active,Yoga,86,Student,4.3,Vegetarian,None,Asthma,Weight Loss,48,168,1775,134,"HIIT, Walking",7.5,86
+64,Female,160,101,39.5,Very Active,Sports,46,Student,7.1,Vegan,Dairy,Asthma,Maintenance,101,113,2323,110,"Cardio, Balanced Diet",7.5,46
+30,Male,158,53,21.2,Very Active,Gym,67,Student,8.3,Non-Vegetarian,None,None,Maintenance,53,117,2210,148,"Cardio, Balanced Diet",7.5,67
+30,Male,177,102,32.6,Lightly Active,Walking,77,Desk job,8.3,Vegetarian,None,None,Weight Loss,97,170,1945,146,"HIIT, Walking",7.5,77
+65,Female,166,81,29.4,Active,Sports,22,Desk job,8.1,Keto,None,None,Weight Loss,76,80,1745,132,"HIIT, Walking",7.5,22
+47,Other,161,64,24.7,Lightly Active,Sports,42,Field work,8.5,Vegetarian,None,None,Endurance,64,75,2263,137,"Endurance Training, Balanced Meals",7.5,42
+63,Male,193,60,16.1,Sedentary,Gym,71,Field work,4.7,Vegan,None,None,Endurance,60,54,2245,108,"Endurance Training, Balanced Meals",7.5,71
+51,Male,172,54,18.3,Active,Home Workouts,27,Student,5.8,Vegetarian,Nuts,None,Muscle Gain,61,131,2809,163,"Weightlifting, Protein Diet",7.5,27
+53,Female,196,90,23.4,Lightly Active,Yoga,29,Desk job,8.1,Vegetarian,None,None,Weight Loss,81,100,1582,128,"HIIT, Walking",7.5,29
+32,Other,196,86,22.4,Active,Sports,49,Student,5.2,Vegetarian,Dairy,None,Muscle Gain,93,173,2508,162,"Weightlifting, Protein Diet",7.5,49
+45,Other,166,87,31.6,Very Active,Gym,37,Shift work,8.3,Vegetarian,None,None,Maintenance,87,73,2109,103,"Cardio, Balanced Diet",7.5,37
+50,Other,190,59,16.3,Very Active,Sports,31,Field work,5.3,Keto,None,Asthma,Weight Loss,50,54,1510,108,"HIIT, Walking",7.5,31
+67,Female,174,84,27.7,Very Active,Gym,33,Desk job,4.7,Vegan,Dairy,None,Maintenance,84,176,2278,108,"Cardio, Balanced Diet",7.5,33
+47,Female,165,82,30.1,Lightly Active,Gym,77,Desk job,8.7,Non-Vegetarian,None,None,Weight Loss,70,140,1682,114,"HIIT, Walking",7.5,77
+36,Female,151,76,33.3,Lightly Active,Yoga,42,Student,8.9,Vegetarian,None,None,Endurance,76,92,2423,132,"Endurance Training, Balanced Meals",7.5,42
+66,Female,166,88,31.9,Active,Sports,32,Student,5.5,Vegan,None,None,Maintenance,88,44,2265,140,"Cardio, Balanced Diet",7.5,32
+44,Male,177,50,16.0,Sedentary,Sports,29,Shift work,5.6,Vegetarian,None,None,Weight Loss,40,133,1703,113,"HIIT, Walking",7.5,29
+61,Other,159,103,40.7,Very Active,Walking,29,Field work,8.4,Vegan,Gluten,None,Maintenance,103,72,2462,120,"Cardio, Balanced Diet",7.5,29
+69,Male,161,53,20.4,Active,Gym,42,Shift work,7.9,Keto,None,Asthma,Muscle Gain,59,45,2777,198,"Weightlifting, Protein Diet",7.5,42
+67,Other,167,56,20.1,Lightly Active,Walking,89,Field work,4.8,Keto,None,Hypertension,Weight Loss,43,60,1826,108,"HIIT, Walking",7.5,89
+30,Female,152,84,36.4,Sedentary,Home Workouts,83,Shift work,5.3,Keto,None,None,Endurance,84,35,2564,120,"Endurance Training, Balanced Meals",7.5,83
+50,Other,182,77,23.2,Active,Home Workouts,83,Shift work,8.1,Vegan,None,Diabetes,Weight Loss,68,127,1921,125,"HIIT, Walking",7.5,83
+35,Male,158,81,32.4,Active,Home Workouts,75,Shift work,6.3,Keto,None,Hypertension,Maintenance,81,105,2050,118,"Cardio, Balanced Diet",7.5,75
+38,Other,168,73,25.9,Lightly Active,Home Workouts,47,Field work,7.9,Keto,None,None,Endurance,73,73,2692,128,"Endurance Training, Balanced Meals",7.5,47
+21,Female,174,80,26.4,Active,Walking,68,Field work,7.0,Vegan,None,Diabetes,Weight Loss,69,160,1695,140,"HIIT, Walking",7.5,68
+54,Other,164,57,21.2,Lightly Active,Walking,75,Shift work,4.7,Non-Vegetarian,None,Hypertension,Maintenance,57,59,2260,130,"Cardio, Balanced Diet",7.5,75
+24,Other,180,101,31.2,Lightly Active,Walking,42,Student,4.4,Non-Vegetarian,None,None,Maintenance,101,98,2312,116,"Cardio, Balanced Diet",7.5,42
+69,Other,176,96,31.0,Sedentary,Home Workouts,30,Student,5.5,Non-Vegetarian,None,Asthma,Muscle Gain,104,142,2545,167,"Weightlifting, Protein Diet",7.5,30
+60,Male,178,88,27.8,Very Active,Walking,78,Shift work,5.8,Vegetarian,None,Asthma,Muscle Gain,93,172,2501,173,"Weightlifting, Protein Diet",7.5,78
+31,Other,185,99,28.9,Very Active,Yoga,56,Field work,4.3,Vegan,Dairy,None,Endurance,99,33,2356,100,"Endurance Training, Balanced Meals",7.5,56
+60,Female,195,71,18.7,Active,Walking,78,Field work,5.3,Keto,None,Diabetes,Weight Loss,58,168,1958,105,"HIIT, Walking",7.5,78
+18,Female,155,62,25.8,Lightly Active,Home Workouts,66,Shift work,5.9,Non-Vegetarian,None,Asthma,Muscle Gain,70,61,2725,156,"Weightlifting, Protein Diet",7.5,66
+59,Female,199,66,16.7,Lightly Active,Home Workouts,79,Desk job,7.8,Vegan,None,None,Weight Loss,61,130,1882,140,"HIIT, Walking",7.5,79
+47,Male,198,97,24.7,Very Active,Gym,66,Student,8.2,Vegetarian,Soy,None,Weight Loss,84,30,1659,141,"HIIT, Walking",7.5,66
+59,Other,198,68,17.3,Very Active,Yoga,48,Field work,7.2,Keto,None,None,Weight Loss,63,78,1831,119,"HIIT, Walking",7.5,48
+67,Other,192,106,28.8,Lightly Active,Sports,69,Desk job,8.8,Vegan,Gluten,None,Endurance,106,53,2324,115,"Endurance Training, Balanced Meals",7.5,69
+47,Female,150,73,32.4,Very Active,Gym,36,Field work,6.4,Vegetarian,None,Asthma,Muscle Gain,79,90,2685,180,"Weightlifting, Protein Diet",7.5,36
+44,Female,180,81,25.0,Very Active,Gym,72,Desk job,5.8,Non-Vegetarian,Gluten,Hypertension,Endurance,81,141,2667,135,"Endurance Training, Balanced Meals",7.5,72
+34,Male,160,79,30.9,Active,Gym,41,Desk job,7.5,Vegan,None,None,Maintenance,79,161,2335,115,"Cardio, Balanced Diet",7.5,41
+38,Female,185,68,19.9,Lightly Active,Gym,64,Field work,5.0,Non-Vegetarian,None,None,Endurance,68,129,2626,136,"Endurance Training, Balanced Meals",7.5,64
+19,Male,189,87,24.4,Sedentary,Home Workouts,28,Desk job,6.6,Keto,Nuts,None,Endurance,87,101,2626,141,"Endurance Training, Balanced Meals",7.5,28
+30,Male,166,88,31.9,Very Active,Yoga,49,Student,5.3,Vegan,None,None,Endurance,88,115,2537,122,"Endurance Training, Balanced Meals",7.5,49
+19,Female,199,60,15.2,Active,Gym,30,Desk job,5.7,Vegan,None,None,Muscle Gain,68,136,2963,168,"Weightlifting, Protein Diet",7.5,30
+34,Other,175,55,18.0,Active,Gym,69,Desk job,7.5,Vegan,None,None,Maintenance,55,88,2163,102,"Cardio, Balanced Diet",7.5,69
+41,Other,166,88,31.9,Lightly Active,Sports,74,Desk job,5.3,Vegetarian,None,None,Maintenance,88,96,2112,143,"Cardio, Balanced Diet",7.5,74
+49,Female,189,64,17.9,Sedentary,Sports,47,Desk job,4.7,Vegetarian,None,None,Maintenance,64,103,2174,141,"Cardio, Balanced Diet",7.5,47
+40,Female,150,84,37.3,Very Active,Home Workouts,77,Shift work,8.1,Vegetarian,Dairy,None,Weight Loss,71,129,1688,128,"HIIT, Walking",7.5,77
+43,Male,163,99,37.3,Active,Gym,41,Student,7.5,Vegetarian,Gluten,None,Weight Loss,90,55,1540,134,"HIIT, Walking",7.5,41
+55,Other,190,78,21.6,Active,Sports,86,Desk job,8.8,Non-Vegetarian,None,None,Muscle Gain,83,152,2641,193,"Weightlifting, Protein Diet",7.5,86
+33,Male,162,87,33.2,Sedentary,Sports,74,Shift work,7.1,Vegetarian,None,None,Maintenance,87,109,2030,124,"Cardio, Balanced Diet",7.5,74
+65,Female,182,62,18.7,Very Active,Walking,60,Shift work,4.0,Vegan,None,None,Endurance,62,116,2308,131,"Endurance Training, Balanced Meals",7.5,60
+30,Male,183,82,24.5,Very Active,Home Workouts,86,Desk job,8.0,Keto,Dairy,None,Maintenance,82,59,2443,117,"Cardio, Balanced Diet",7.5,86
+49,Male,156,82,33.7,Sedentary,Gym,71,Student,8.2,Vegetarian,None,Diabetes,Muscle Gain,88,158,2759,188,"Weightlifting, Protein Diet",7.5,71
+43,Male,182,57,17.2,Very Active,Home Workouts,64,Shift work,8.8,Non-Vegetarian,None,Asthma,Endurance,57,71,2211,100,"Endurance Training, Balanced Meals",7.5,64
+59,Male,152,109,47.2,Active,Walking,28,Field work,6.8,Keto,Nuts,Diabetes,Muscle Gain,114,170,2885,156,"Weightlifting, Protein Diet",7.5,28
+65,Other,170,68,23.5,Sedentary,Yoga,52,Student,6.5,Vegetarian,Gluten,None,Muscle Gain,77,38,2780,174,"Weightlifting, Protein Diet",7.5,52
+50,Female,168,95,33.7,Very Active,Walking,89,Desk job,7.9,Non-Vegetarian,Nuts,None,Maintenance,95,80,2337,125,"Cardio, Balanced Diet",7.5,89
+53,Male,180,86,26.5,Sedentary,Gym,46,Desk job,5.2,Keto,Dairy,Diabetes,Maintenance,86,66,2479,106,"Cardio, Balanced Diet",7.5,46
+50,Other,161,60,23.1,Very Active,Gym,57,Student,4.2,Vegan,Soy,None,Weight Loss,46,109,1691,103,"HIIT, Walking",7.5,57
+44,Male,192,65,17.6,Active,Sports,38,Desk job,7.6,Vegetarian,None,None,Weight Loss,53,175,1624,132,"HIIT, Walking",7.5,38
+18,Female,190,104,28.8,Sedentary,Yoga,37,Desk job,4.6,Vegan,Dairy,None,Muscle Gain,109,98,2682,189,"Weightlifting, Protein Diet",7.5,37
+36,Female,199,102,25.8,Active,Gym,37,Desk job,7.4,Keto,Gluten,Asthma,Weight Loss,91,107,1734,147,"HIIT, Walking",7.5,37
+42,Female,171,108,36.9,Very Active,Sports,48,Student,4.3,Vegetarian,Soy,None,Endurance,108,34,2467,140,"Endurance Training, Balanced Meals",7.5,48
+20,Other,182,106,32.0,Lightly Active,Walking,75,Student,4.7,Non-Vegetarian,Nuts,Diabetes,Endurance,106,46,2255,133,"Endurance Training, Balanced Meals",7.5,75
+63,Other,154,63,26.6,Active,Walking,80,Shift work,6.8,Non-Vegetarian,None,None,Muscle Gain,72,90,2585,166,"Weightlifting, Protein Diet",7.5,80
+40,Female,185,98,28.6,Sedentary,Sports,21,Student,4.4,Vegetarian,Dairy,None,Endurance,98,88,2392,116,"Endurance Training, Balanced Meals",7.5,21
+29,Male,162,80,30.5,Sedentary,Gym,26,Shift work,7.1,Vegetarian,None,None,Muscle Gain,85,176,2707,170,"Weightlifting, Protein Diet",7.5,26
+19,Female,165,86,31.6,Active,Home Workouts,51,Desk job,5.6,Keto,None,None,Muscle Gain,92,126,2656,154,"Weightlifting, Protein Diet",7.5,51
+30,Male,172,89,30.1,Active,Yoga,54,Shift work,6.4,Vegetarian,None,None,Maintenance,89,89,2485,139,"Cardio, Balanced Diet",7.5,54
+18,Male,159,77,30.5,Sedentary,Yoga,22,Student,6.9,Vegetarian,None,None,Muscle Gain,85,113,2576,182,"Weightlifting, Protein Diet",7.5,22
+22,Male,163,76,28.6,Active,Sports,66,Field work,7.8,Vegan,None,None,Weight Loss,65,89,1801,109,"HIIT, Walking",7.5,66
+65,Other,186,72,20.8,Active,Walking,85,Desk job,7.2,Vegan,None,Hypertension,Endurance,72,51,2567,128,"Endurance Training, Balanced Meals",7.5,85
+19,Female,197,104,26.8,Active,Gym,74,Shift work,6.7,Keto,None,Hypertension,Weight Loss,90,159,1835,130,"HIIT, Walking",7.5,74
+23,Male,170,75,26.0,Active,Yoga,47,Student,4.4,Keto,None,None,Maintenance,75,149,2178,131,"Cardio, Balanced Diet",7.5,47
+67,Male,151,74,32.5,Very Active,Sports,80,Field work,8.6,Keto,None,None,Weight Loss,64,90,1673,121,"HIIT, Walking",7.5,80
+42,Male,167,55,19.7,Lightly Active,Sports,34,Student,4.4,Vegan,Nuts,Asthma,Maintenance,55,46,2433,131,"Cardio, Balanced Diet",7.5,34
+39,Other,162,96,36.6,Active,Home Workouts,41,Desk job,5.5,Vegetarian,None,None,Maintenance,96,130,2070,145,"Cardio, Balanced Diet",7.5,41
+52,Male,162,59,22.5,Lightly Active,Sports,44,Student,4.1,Keto,None,None,Muscle Gain,68,50,2756,168,"Weightlifting, Protein Diet",7.5,44
+50,Female,152,76,32.9,Very Active,Gym,47,Field work,8.3,Vegetarian,None,None,Endurance,76,53,2652,140,"Endurance Training, Balanced Meals",7.5,47
+59,Male,196,61,15.9,Sedentary,Home Workouts,50,Student,5.2,Non-Vegetarian,None,None,Weight Loss,50,144,1815,117,"HIIT, Walking",7.5,50
+50,Male,180,86,26.5,Active,Sports,21,Desk job,7.3,Vegan,None,None,Weight Loss,80,100,1861,134,"HIIT, Walking",7.5,21
+47,Other,160,93,36.3,Sedentary,Sports,44,Student,5.0,Non-Vegetarian,Dairy,None,Weight Loss,88,160,1728,121,"HIIT, Walking",7.5,44
+34,Female,163,90,33.9,Lightly Active,Yoga,32,Shift work,4.7,Keto,Dairy,None,Maintenance,90,173,2145,106,"Cardio, Balanced Diet",7.5,32
+62,Male,179,91,28.4,Sedentary,Sports,59,Shift work,6.5,Non-Vegetarian,None,None,Endurance,91,134,2690,142,"Endurance Training, Balanced Meals",7.5,59
+48,Female,193,106,28.5,Lightly Active,Sports,51,Student,5.0,Non-Vegetarian,Soy,None,Muscle Gain,113,164,2540,189,"Weightlifting, Protein Diet",7.5,51
+20,Male,151,64,28.1,Lightly Active,Home Workouts,71,Field work,7.2,Keto,None,Diabetes,Muscle Gain,69,121,2982,180,"Weightlifting, Protein Diet",7.5,71
+30,Female,184,65,19.2,Active,Yoga,37,Shift work,6.4,Non-Vegetarian,None,None,Maintenance,65,145,2172,134,"Cardio, Balanced Diet",7.5,37
+45,Other,187,58,16.6,Very Active,Home Workouts,71,Shift work,6.9,Vegan,Gluten,Diabetes,Maintenance,58,122,2087,115,"Cardio, Balanced Diet",7.5,71
+42,Other,172,77,26.0,Active,Yoga,75,Field work,7.7,Vegan,None,None,Endurance,77,55,2542,144,"Endurance Training, Balanced Meals",7.5,75
+60,Male,187,82,23.4,Active,Sports,51,Field work,4.4,Vegan,None,None,Muscle Gain,89,140,2667,182,"Weightlifting, Protein Diet",7.5,51
+37,Female,185,54,15.8,Active,Home Workouts,25,Desk job,4.6,Vegan,None,Hypertension,Maintenance,54,53,2150,147,"Cardio, Balanced Diet",7.5,25
+27,Female,190,90,24.9,Sedentary,Gym,75,Student,8.8,Keto,Gluten,Hypertension,Weight Loss,84,176,1890,125,"HIIT, Walking",7.5,75
+32,Other,187,52,14.9,Lightly Active,Walking,62,Field work,7.8,Keto,None,None,Endurance,52,157,2292,143,"Endurance Training, Balanced Meals",7.5,62
+22,Other,178,79,24.9,Sedentary,Walking,45,Desk job,8.9,Vegan,None,None,Muscle Gain,86,36,2880,198,"Weightlifting, Protein Diet",7.5,45
+26,Male,190,91,25.2,Sedentary,Home Workouts,46,Student,5.5,Keto,Gluten,Diabetes,Maintenance,91,90,2437,107,"Cardio, Balanced Diet",7.5,46
+46,Other,190,79,21.9,Lightly Active,Home Workouts,30,Field work,6.8,Non-Vegetarian,None,None,Endurance,79,116,2448,149,"Endurance Training, Balanced Meals",7.5,30
+37,Male,179,67,20.9,Lightly Active,Yoga,36,Field work,4.5,Vegan,None,Diabetes,Weight Loss,61,117,1786,126,"HIIT, Walking",7.5,36
+19,Male,163,53,19.9,Sedentary,Home Workouts,54,Student,7.4,Vegan,None,Asthma,Muscle Gain,59,50,2733,159,"Weightlifting, Protein Diet",7.5,54
+40,Other,181,69,21.1,Lightly Active,Home Workouts,71,Shift work,6.0,Vegetarian,None,Diabetes,Maintenance,69,99,2394,143,"Cardio, Balanced Diet",7.5,71
+35,Other,191,106,29.1,Sedentary,Gym,82,Desk job,4.5,Non-Vegetarian,None,Asthma,Maintenance,106,41,2262,116,"Cardio, Balanced Diet",7.5,82
+18,Female,199,75,18.9,Active,Yoga,52,Field work,8.0,Vegan,None,Asthma,Maintenance,75,112,2024,131,"Cardio, Balanced Diet",7.5,52
+29,Other,162,77,29.3,Sedentary,Yoga,89,Student,5.2,Vegetarian,None,Asthma,Endurance,77,33,2325,146,"Endurance Training, Balanced Meals",7.5,89
+38,Male,190,51,14.1,Active,Gym,35,Desk job,5.0,Vegan,None,None,Muscle Gain,57,154,2818,172,"Weightlifting, Protein Diet",7.5,35
+58,Female,183,109,32.5,Active,Walking,34,Field work,6.4,Vegan,None,Diabetes,Muscle Gain,117,65,2547,182,"Weightlifting, Protein Diet",7.5,34
+48,Female,159,65,25.7,Very Active,Home Workouts,25,Field work,6.7,Vegetarian,Nuts,None,Endurance,65,94,2507,142,"Endurance Training, Balanced Meals",7.5,25
+43,Female,161,63,24.3,Sedentary,Yoga,87,Student,7.0,Vegan,None,None,Muscle Gain,72,79,2513,165,"Weightlifting, Protein Diet",7.5,87
+60,Female,166,95,34.5,Lightly Active,Sports,38,Field work,7.7,Keto,Dairy,None,Endurance,95,47,2606,120,"Endurance Training, Balanced Meals",7.5,38
+28,Other,190,53,14.7,Sedentary,Home Workouts,80,Student,5.2,Vegetarian,None,None,Muscle Gain,62,115,2632,153,"Weightlifting, Protein Diet",7.5,80
+26,Male,171,76,26.0,Lightly Active,Walking,80,Shift work,4.2,Non-Vegetarian,Soy,None,Maintenance,76,152,2439,146,"Cardio, Balanced Diet",7.5,80
+42,Other,199,53,13.4,Very Active,Yoga,67,Student,8.0,Keto,None,Asthma,Muscle Gain,60,139,2771,168,"Weightlifting, Protein Diet",7.5,67
+51,Male,180,98,30.2,Sedentary,Gym,66,Field work,5.8,Vegan,Dairy,None,Weight Loss,93,97,1527,117,"HIIT, Walking",7.5,66
+43,Other,155,50,20.8,Very Active,Gym,70,Shift work,4.2,Vegetarian,Dairy,None,Maintenance,50,112,2092,109,"Cardio, Balanced Diet",7.5,70
+29,Male,156,66,27.1,Sedentary,Home Workouts,29,Shift work,8.4,Vegetarian,None,None,Muscle Gain,71,147,2963,157,"Weightlifting, Protein Diet",7.5,29
+41,Male,178,81,25.6,Very Active,Yoga,25,Shift work,6.0,Non-Vegetarian,None,None,Muscle Gain,86,30,2818,174,"Weightlifting, Protein Diet",7.5,25
+51,Other,159,69,27.3,Active,Home Workouts,48,Student,7.7,Keto,None,None,Muscle Gain,77,178,2797,183,"Weightlifting, Protein Diet",7.5,48
+24,Male,184,64,18.9,Sedentary,Walking,44,Field work,8.9,Vegan,None,None,Maintenance,64,117,2148,106,"Cardio, Balanced Diet",7.5,44
+46,Female,181,81,24.7,Sedentary,Yoga,88,Field work,7.1,Non-Vegetarian,None,None,Endurance,81,53,2521,112,"Endurance Training, Balanced Meals",7.5,88
+32,Male,152,86,37.2,Sedentary,Home Workouts,22,Shift work,6.0,Vegan,Nuts,Hypertension,Muscle Gain,92,77,2923,166,"Weightlifting, Protein Diet",7.5,22
+57,Other,157,102,41.4,Very Active,Yoga,77,Student,4.1,Keto,None,None,Endurance,102,177,2556,147,"Endurance Training, Balanced Meals",7.5,77
+58,Other,163,60,22.6,Active,Home Workouts,67,Field work,6.5,Vegan,None,None,Muscle Gain,69,38,2634,165,"Weightlifting, Protein Diet",7.5,67
+36,Other,155,99,41.2,Active,Yoga,80,Field work,7.4,Keto,None,Hypertension,Muscle Gain,107,121,2587,154,"Weightlifting, Protein Diet",7.5,80
+54,Male,161,107,41.3,Active,Home Workouts,59,Field work,4.1,Vegetarian,None,None,Muscle Gain,116,30,2799,171,"Weightlifting, Protein Diet",7.5,59
+55,Other,168,65,23.0,Active,Yoga,86,Shift work,6.4,Non-Vegetarian,None,Asthma,Maintenance,65,151,2251,122,"Cardio, Balanced Diet",7.5,86
+20,Other,174,76,25.1,Lightly Active,Sports,82,Shift work,4.5,Vegetarian,None,None,Muscle Gain,85,123,2872,168,"Weightlifting, Protein Diet",7.5,82
+33,Male,185,89,26.0,Active,Home Workouts,33,Desk job,6.2,Non-Vegetarian,None,None,Endurance,89,46,2569,120,"Endurance Training, Balanced Meals",7.5,33
+43,Other,197,93,24.0,Sedentary,Yoga,52,Shift work,4.2,Non-Vegetarian,None,None,Endurance,93,82,2597,115,"Endurance Training, Balanced Meals",7.5,52
+60,Male,159,66,26.1,Very Active,Yoga,60,Desk job,6.4,Vegan,None,Asthma,Weight Loss,58,109,1633,136,"HIIT, Walking",7.5,60
+38,Female,177,87,27.8,Sedentary,Sports,33,Shift work,4.6,Vegetarian,None,None,Weight Loss,81,128,1741,129,"HIIT, Walking",7.5,33
+51,Female,160,76,29.7,Very Active,Yoga,58,Student,5.7,Vegetarian,None,None,Endurance,76,121,2221,143,"Endurance Training, Balanced Meals",7.5,58
+45,Male,174,93,30.7,Active,Home Workouts,25,Student,8.8,Keto,None,None,Endurance,93,131,2367,128,"Endurance Training, Balanced Meals",7.5,25
+41,Other,154,102,43.0,Lightly Active,Walking,64,Desk job,6.7,Vegan,Dairy,Asthma,Weight Loss,93,47,1970,143,"HIIT, Walking",7.5,64
+55,Other,150,53,23.6,Active,Sports,66,Shift work,6.3,Keto,Soy,Asthma,Endurance,53,136,2407,140,"Endurance Training, Balanced Meals",7.5,66
+20,Male,169,63,22.1,Very Active,Walking,89,Shift work,7.9,Keto,None,Hypertension,Endurance,63,30,2404,110,"Endurance Training, Balanced Meals",7.5,89
+25,Male,189,81,22.7,Very Active,Sports,22,Student,4.1,Vegan,None,None,Maintenance,81,74,2104,127,"Cardio, Balanced Diet",7.5,22
+42,Female,193,95,25.5,Sedentary,Gym,26,Shift work,4.6,Vegan,Gluten,Hypertension,Endurance,95,85,2214,134,"Endurance Training, Balanced Meals",7.5,26
+41,Male,165,57,20.9,Sedentary,Home Workouts,59,Desk job,6.7,Non-Vegetarian,Soy,None,Maintenance,57,156,2154,146,"Cardio, Balanced Diet",7.5,59
+33,Other,155,104,43.3,Sedentary,Sports,37,Student,6.2,Vegetarian,Nuts,Diabetes,Muscle Gain,110,51,2852,188,"Weightlifting, Protein Diet",7.5,37
+64,Male,171,94,32.1,Sedentary,Sports,28,Student,8.7,Vegetarian,None,None,Endurance,94,151,2275,135,"Endurance Training, Balanced Meals",7.5,28
+69,Male,189,66,18.5,Very Active,Home Workouts,46,Desk job,8.9,Keto,None,None,Weight Loss,53,32,1991,114,"HIIT, Walking",7.5,46
+48,Female,165,59,21.7,Lightly Active,Home Workouts,78,Field work,4.0,Vegetarian,None,Hypertension,Weight Loss,50,80,1677,110,"HIIT, Walking",7.5,78
+24,Female,188,54,15.3,Very Active,Home Workouts,76,Desk job,8.6,Keto,None,None,Endurance,54,91,2318,120,"Endurance Training, Balanced Meals",7.5,76
+54,Female,156,75,30.8,Lightly Active,Gym,23,Desk job,7.4,Keto,Soy,None,Maintenance,75,72,2424,136,"Cardio, Balanced Diet",7.5,23
+59,Other,177,63,20.1,Very Active,Home Workouts,53,Student,7.3,Keto,None,Asthma,Maintenance,63,36,2291,137,"Cardio, Balanced Diet",7.5,53
+33,Other,195,72,18.9,Very Active,Home Workouts,63,Student,8.6,Vegetarian,None,None,Maintenance,72,43,2297,143,"Cardio, Balanced Diet",7.5,63
+33,Other,191,53,14.5,Active,Home Workouts,72,Student,8.5,Vegetarian,None,Diabetes,Maintenance,53,164,2372,141,"Cardio, Balanced Diet",7.5,72
+21,Male,154,60,25.3,Active,Gym,60,Field work,4.9,Vegan,None,Asthma,Weight Loss,50,72,1744,117,"HIIT, Walking",7.5,60
+61,Male,158,69,27.6,Very Active,Walking,22,Desk job,4.5,Vegan,None,None,Maintenance,69,63,2104,140,"Cardio, Balanced Diet",7.5,22
+22,Other,196,52,13.5,Active,Sports,22,Field work,6.0,Vegan,None,None,Maintenance,52,38,2400,100,"Cardio, Balanced Diet",7.5,22
+20,Other,175,102,33.3,Active,Walking,42,Field work,4.8,Keto,None,None,Maintenance,102,134,2183,109,"Cardio, Balanced Diet",7.5,42
+37,Male,196,72,18.7,Sedentary,Home Workouts,20,Field work,4.5,Non-Vegetarian,None,Hypertension,Muscle Gain,79,58,2770,195,"Weightlifting, Protein Diet",7.5,20
+18,Other,177,106,33.8,Active,Yoga,37,Student,8.2,Keto,None,Asthma,Maintenance,106,48,2245,146,"Cardio, Balanced Diet",7.5,37
+59,Female,178,82,25.9,Lightly Active,Home Workouts,54,Shift work,6.8,Vegan,None,None,Maintenance,82,119,2250,123,"Cardio, Balanced Diet",7.5,54
+30,Male,153,62,26.5,Sedentary,Gym,56,Student,4.5,Keto,None,None,Endurance,62,144,2385,143,"Endurance Training, Balanced Meals",7.5,56
+61,Female,183,83,24.8,Sedentary,Home Workouts,23,Student,8.5,Non-Vegetarian,None,Asthma,Maintenance,83,163,2274,107,"Cardio, Balanced Diet",7.5,23
+31,Female,152,87,37.7,Sedentary,Walking,65,Shift work,8.7,Non-Vegetarian,None,None,Maintenance,87,164,2054,115,"Cardio, Balanced Diet",7.5,65
+48,Female,168,77,27.3,Sedentary,Sports,38,Desk job,8.5,Vegetarian,Dairy,None,Maintenance,77,174,2437,149,"Cardio, Balanced Diet",7.5,38
+45,Other,153,71,30.3,Lightly Active,Home Workouts,58,Field work,6.6,Non-Vegetarian,None,None,Maintenance,71,103,2341,116,"Cardio, Balanced Diet",7.5,58
+43,Other,156,93,38.2,Very Active,Sports,29,Field work,5.6,Vegetarian,None,Diabetes,Weight Loss,83,136,1923,136,"HIIT, Walking",7.5,29
+51,Female,197,102,26.3,Active,Walking,38,Student,4.3,Keto,None,Asthma,Weight Loss,94,110,1843,120,"HIIT, Walking",7.5,38
+19,Other,193,82,22.0,Lightly Active,Sports,63,Student,7.1,Vegetarian,None,None,Endurance,82,168,2212,126,"Endurance Training, Balanced Meals",7.5,63
+25,Female,157,69,28.0,Very Active,Gym,47,Field work,4.4,Keto,None,None,Maintenance,69,52,2301,114,"Cardio, Balanced Diet",7.5,47
+19,Male,161,106,40.9,Very Active,Sports,86,Desk job,4.6,Vegan,Gluten,Diabetes,Endurance,106,107,2483,126,"Endurance Training, Balanced Meals",7.5,86
+27,Other,185,87,25.4,Very Active,Gym,67,Shift work,4.1,Vegetarian,Dairy,None,Endurance,87,179,2604,100,"Endurance Training, Balanced Meals",7.5,67
+54,Male,170,95,32.9,Sedentary,Gym,66,Desk job,8.2,Vegan,None,None,Maintenance,95,35,2308,115,"Cardio, Balanced Diet",7.5,66
+43,Male,158,95,38.1,Very Active,Sports,82,Field work,8.1,Keto,None,None,Maintenance,95,76,2391,122,"Cardio, Balanced Diet",7.5,82
+59,Other,180,102,31.5,Active,Walking,24,Student,4.3,Non-Vegetarian,None,None,Endurance,102,141,2319,101,"Endurance Training, Balanced Meals",7.5,24
+37,Other,167,50,17.9,Lightly Active,Home Workouts,63,Student,5.7,Vegan,Soy,None,Endurance,50,49,2213,104,"Endurance Training, Balanced Meals",7.5,63
+58,Female,165,94,34.5,Active,Yoga,63,Desk job,5.5,Keto,None,None,Endurance,94,53,2413,105,"Endurance Training, Balanced Meals",7.5,63
+65,Other,187,59,16.9,Very Active,Yoga,51,Desk job,6.7,Keto,None,None,Endurance,59,56,2365,117,"Endurance Training, Balanced Meals",7.5,51
+62,Other,162,102,38.9,Very Active,Home Workouts,68,Desk job,6.9,Non-Vegetarian,None,None,Muscle Gain,110,175,2504,168,"Weightlifting, Protein Diet",7.5,68
+59,Female,181,70,21.4,Lightly Active,Home Workouts,68,Field work,6.5,Vegetarian,None,None,Muscle Gain,79,48,2946,177,"Weightlifting, Protein Diet",7.5,68
+63,Male,179,56,17.5,Active,Walking,45,Student,7.9,Keto,None,None,Maintenance,56,101,2002,127,"Cardio, Balanced Diet",7.5,45
+46,Other,167,84,30.1,Active,Home Workouts,66,Field work,4.0,Vegan,None,None,Maintenance,84,76,2094,130,"Cardio, Balanced Diet",7.5,66
+30,Female,198,94,24.0,Lightly Active,Gym,52,Desk job,5.6,Keto,None,None,Muscle Gain,102,172,2759,153,"Weightlifting, Protein Diet",7.5,52
+47,Female,176,80,25.8,Very Active,Sports,28,Shift work,5.6,Non-Vegetarian,Nuts,None,Endurance,80,159,2340,103,"Endurance Training, Balanced Meals",7.5,28
+37,Female,197,108,27.8,Lightly Active,Home Workouts,27,Student,6.8,Non-Vegetarian,None,None,Endurance,108,43,2333,141,"Endurance Training, Balanced Meals",7.5,27
+57,Female,180,66,20.4,Sedentary,Home Workouts,31,Desk job,7.7,Keto,None,None,Weight Loss,53,45,1665,142,"HIIT, Walking",7.5,31
+66,Female,172,63,21.3,Lightly Active,Gym,42,Field work,8.9,Keto,None,Diabetes,Muscle Gain,69,69,2763,157,"Weightlifting, Protein Diet",7.5,42
+57,Male,183,93,27.8,Active,Sports,79,Desk job,8.3,Non-Vegetarian,Dairy,None,Maintenance,93,115,2132,130,"Cardio, Balanced Diet",7.5,79
+30,Female,169,82,28.7,Very Active,Home Workouts,43,Field work,6.8,Vegetarian,Dairy,None,Muscle Gain,91,116,2751,164,"Weightlifting, Protein Diet",7.5,43
+48,Other,158,92,36.9,Lightly Active,Home Workouts,44,Desk job,7.3,Vegetarian,None,None,Muscle Gain,99,116,2932,153,"Weightlifting, Protein Diet",7.5,44
+46,Other,150,103,45.8,Lightly Active,Home Workouts,39,Desk job,6.8,Keto,None,None,Endurance,103,136,2400,124,"Endurance Training, Balanced Meals",7.5,39
+33,Female,160,80,31.2,Very Active,Sports,70,Student,7.4,Vegetarian,None,None,Maintenance,80,93,2131,122,"Cardio, Balanced Diet",7.5,70
+45,Other,161,102,39.4,Sedentary,Home Workouts,36,Student,4.5,Non-Vegetarian,None,None,Endurance,102,90,2568,114,"Endurance Training, Balanced Meals",7.5,36
+51,Female,166,97,35.2,Sedentary,Gym,39,Desk job,6.5,Vegan,Gluten,Hypertension,Weight Loss,84,112,1980,100,"HIIT, Walking",7.5,39
+30,Female,176,55,17.8,Active,Gym,42,Field work,5.4,Vegan,None,None,Maintenance,55,71,2218,133,"Cardio, Balanced Diet",7.5,42
+21,Female,156,97,39.9,Sedentary,Walking,71,Field work,5.2,Vegan,Dairy,None,Weight Loss,91,110,1649,112,"HIIT, Walking",7.5,71
+29,Female,150,81,36.0,Lightly Active,Home Workouts,41,Field work,5.3,Keto,None,None,Weight Loss,73,55,1533,107,"HIIT, Walking",7.5,41
+27,Other,192,99,26.9,Lightly Active,Gym,37,Student,5.1,Non-Vegetarian,None,None,Maintenance,99,82,2471,127,"Cardio, Balanced Diet",7.5,37
+33,Other,155,51,21.2,Lightly Active,Home Workouts,66,Shift work,4.7,Non-Vegetarian,None,None,Maintenance,51,115,2370,123,"Cardio, Balanced Diet",7.5,66
+24,Female,197,61,15.7,Active,Gym,32,Shift work,7.7,Vegetarian,None,Diabetes,Muscle Gain,70,162,2876,162,"Weightlifting, Protein Diet",7.5,32
+22,Other,170,73,25.3,Very Active,Sports,37,Desk job,6.4,Keto,Dairy,None,Endurance,73,86,2450,122,"Endurance Training, Balanced Meals",7.5,37
+39,Female,155,77,32.0,Active,Yoga,58,Field work,4.9,Keto,None,None,Weight Loss,67,98,1620,144,"HIIT, Walking",7.5,58
+67,Male,161,88,33.9,Active,Yoga,84,Shift work,6.4,Non-Vegetarian,None,None,Maintenance,88,137,2302,101,"Cardio, Balanced Diet",7.5,84
+47,Female,198,88,22.4,Sedentary,Gym,57,Desk job,7.6,Keto,None,Diabetes,Endurance,88,46,2267,104,"Endurance Training, Balanced Meals",7.5,57
+40,Female,159,95,37.6,Very Active,Gym,62,Field work,6.4,Keto,None,None,Endurance,95,135,2268,109,"Endurance Training, Balanced Meals",7.5,62
+67,Male,173,87,29.1,Active,Gym,21,Field work,7.9,Non-Vegetarian,None,None,Weight Loss,79,104,1624,141,"HIIT, Walking",7.5,21
+64,Male,174,98,32.4,Very Active,Home Workouts,53,Desk job,4.5,Non-Vegetarian,Gluten,None,Endurance,98,128,2292,141,"Endurance Training, Balanced Meals",7.5,53
+34,Other,192,57,15.5,Sedentary,Home Workouts,72,Student,5.4,Vegetarian,None,Diabetes,Weight Loss,48,49,1502,136,"HIIT, Walking",7.5,72
+43,Other,197,57,14.7,Sedentary,Yoga,84,Desk job,6.0,Non-Vegetarian,None,None,Weight Loss,45,144,1512,104,"HIIT, Walking",7.5,84
+58,Male,150,74,32.9,Very Active,Sports,82,Student,8.2,Vegetarian,Dairy,None,Endurance,74,91,2635,147,"Endurance Training, Balanced Meals",7.5,82
+20,Female,182,59,17.8,Active,Sports,33,Student,6.4,Vegan,None,None,Maintenance,59,155,2085,118,"Cardio, Balanced Diet",7.5,33
+52,Female,154,59,24.9,Sedentary,Gym,32,Student,6.0,Keto,None,None,Maintenance,59,112,2325,139,"Cardio, Balanced Diet",7.5,32
+62,Female,191,84,23.0,Very Active,Gym,75,Student,8.5,Vegan,None,None,Endurance,84,169,2418,140,"Endurance Training, Balanced Meals",7.5,75
+42,Female,152,52,22.5,Very Active,Sports,42,Student,4.3,Keto,None,None,Maintenance,52,125,2379,126,"Cardio, Balanced Diet",7.5,42
+38,Female,162,71,27.1,Active,Sports,40,Field work,8.6,Keto,None,None,Muscle Gain,76,120,2731,172,"Weightlifting, Protein Diet",7.5,40
+48,Other,178,96,30.3,Lightly Active,Yoga,57,Shift work,8.9,Keto,None,None,Maintenance,96,32,2265,114,"Cardio, Balanced Diet",7.5,57
+33,Male,168,60,21.3,Very Active,Home Workouts,88,Student,5.6,Non-Vegetarian,None,None,Maintenance,60,45,2438,113,"Cardio, Balanced Diet",7.5,88
+54,Male,153,85,36.3,Very Active,Gym,55,Field work,8.5,Keto,Nuts,Diabetes,Weight Loss,71,65,1912,113,"HIIT, Walking",7.5,55
+21,Female,185,99,28.9,Sedentary,Home Workouts,65,Shift work,6.7,Vegetarian,None,None,Weight Loss,89,96,1803,111,"HIIT, Walking",7.5,65
+53,Male,185,82,24.0,Active,Home Workouts,46,Shift work,6.5,Vegetarian,None,Diabetes,Muscle Gain,90,51,2516,156,"Weightlifting, Protein Diet",7.5,46
+60,Male,187,81,23.2,Active,Gym,44,Field work,6.8,Vegetarian,None,Diabetes,Endurance,81,56,2507,117,"Endurance Training, Balanced Meals",7.5,44
+44,Female,165,51,18.7,Sedentary,Walking,22,Shift work,4.4,Keto,Gluten,None,Muscle Gain,56,72,2846,178,"Weightlifting, Protein Diet",7.5,22
+54,Male,178,81,25.6,Very Active,Home Workouts,89,Field work,7.5,Vegan,None,None,Weight Loss,68,160,1717,147,"HIIT, Walking",7.5,89
+60,Other,185,81,23.7,Sedentary,Gym,72,Field work,8.3,Keto,None,None,Maintenance,81,30,2345,127,"Cardio, Balanced Diet",7.5,72
+26,Other,193,71,19.1,Very Active,Walking,68,Field work,6.6,Vegan,None,Diabetes,Endurance,71,89,2666,149,"Endurance Training, Balanced Meals",7.5,68
+64,Female,163,102,38.4,Very Active,Walking,67,Shift work,5.0,Vegan,None,Diabetes,Maintenance,102,55,2395,142,"Cardio, Balanced Diet",7.5,67
+68,Female,176,67,21.6,Sedentary,Sports,82,Desk job,4.9,Vegetarian,None,None,Muscle Gain,75,36,2699,165,"Weightlifting, Protein Diet",7.5,82
+20,Male,159,99,39.2,Active,Home Workouts,72,Field work,9.0,Vegan,None,None,Maintenance,99,155,2410,148,"Cardio, Balanced Diet",7.5,72
+21,Other,197,68,17.5,Lightly Active,Yoga,22,Student,4.1,Vegan,None,None,Muscle Gain,73,178,2855,172,"Weightlifting, Protein Diet",7.5,22
+55,Male,169,98,34.3,Sedentary,Walking,26,Desk job,8.5,Vegetarian,None,None,Muscle Gain,107,100,2632,156,"Weightlifting, Protein Diet",7.5,26
+51,Other,181,98,29.9,Sedentary,Gym,79,Shift work,7.1,Keto,None,Asthma,Muscle Gain,106,86,2684,160,"Weightlifting, Protein Diet",7.5,79
+34,Male,171,86,29.4,Very Active,Sports,73,Student,6.3,Non-Vegetarian,None,None,Maintenance,86,155,2339,112,"Cardio, Balanced Diet",7.5,73
+64,Male,181,75,22.9,Lightly Active,Home Workouts,33,Student,8.0,Keto,None,None,Maintenance,75,149,2443,109,"Cardio, Balanced Diet",7.5,33
+42,Other,170,76,26.3,Sedentary,Gym,50,Field work,7.4,Vegetarian,None,None,Muscle Gain,84,38,2529,194,"Weightlifting, Protein Diet",7.5,50
+21,Male,194,72,19.1,Very Active,Home Workouts,67,Field work,4.8,Keto,Nuts,Asthma,Endurance,72,36,2250,100,"Endurance Training, Balanced Meals",7.5,67
+26,Female,194,107,28.4,Active,Yoga,43,Student,7.1,Vegetarian,Gluten,None,Maintenance,107,45,2308,139,"Cardio, Balanced Diet",7.5,43
+53,Other,169,73,25.6,Active,Home Workouts,64,Field work,8.2,Non-Vegetarian,None,None,Muscle Gain,80,68,2617,170,"Weightlifting, Protein Diet",7.5,64
+57,Male,167,103,36.9,Very Active,Sports,56,Field work,6.3,Vegan,None,None,Maintenance,103,130,2299,130,"Cardio, Balanced Diet",7.5,56
+60,Male,197,67,17.3,Active,Gym,80,Shift work,5.2,Vegetarian,Gluten,None,Muscle Gain,75,42,2927,196,"Weightlifting, Protein Diet",7.5,80
+56,Other,175,77,25.1,Sedentary,Sports,63,Student,4.9,Vegetarian,Nuts,None,Muscle Gain,85,64,2574,197,"Weightlifting, Protein Diet",7.5,63
+50,Other,160,58,22.7,Lightly Active,Gym,67,Shift work,4.3,Keto,None,None,Endurance,58,162,2414,121,"Endurance Training, Balanced Meals",7.5,67
+43,Female,161,89,34.3,Active,Gym,86,Shift work,7.7,Non-Vegetarian,Nuts,None,Weight Loss,75,123,1605,104,"HIIT, Walking",7.5,86
+67,Male,164,69,25.7,Very Active,Gym,50,Student,6.7,Non-Vegetarian,Gluten,None,Muscle Gain,75,129,2667,150,"Weightlifting, Protein Diet",7.5,50
+32,Female,150,60,26.7,Active,Walking,84,Shift work,7.4,Non-Vegetarian,None,Diabetes,Weight Loss,46,91,1584,115,"HIIT, Walking",7.5,84
+23,Other,190,92,25.5,Sedentary,Home Workouts,37,Field work,8.0,Keto,None,None,Endurance,92,69,2308,109,"Endurance Training, Balanced Meals",7.5,37
+19,Female,197,67,17.3,Sedentary,Home Workouts,49,Field work,4.3,Non-Vegetarian,None,None,Weight Loss,59,68,1779,133,"HIIT, Walking",7.5,49
+56,Male,190,54,15.0,Active,Walking,23,Shift work,5.2,Vegan,Gluten,None,Endurance,54,57,2574,142,"Endurance Training, Balanced Meals",7.5,23
+44,Male,183,66,19.7,Sedentary,Walking,43,Shift work,6.1,Non-Vegetarian,None,None,Weight Loss,57,160,1915,134,"HIIT, Walking",7.5,43
+36,Female,197,71,18.3,Sedentary,Yoga,87,Desk job,8.8,Keto,None,None,Maintenance,71,74,2086,109,"Cardio, Balanced Diet",7.5,87
+20,Male,152,87,37.7,Sedentary,Walking,59,Field work,8.0,Keto,None,None,Endurance,87,35,2393,120,"Endurance Training, Balanced Meals",7.5,59
+52,Male,178,56,17.7,Sedentary,Home Workouts,56,Shift work,6.6,Keto,None,None,Weight Loss,44,68,1950,101,"HIIT, Walking",7.5,56
+23,Male,158,59,23.6,Very Active,Yoga,22,Desk job,7.0,Vegetarian,Gluten,None,Maintenance,59,89,2469,128,"Cardio, Balanced Diet",7.5,22
+36,Other,155,94,39.1,Active,Home Workouts,45,Field work,6.0,Keto,None,None,Maintenance,94,100,2403,149,"Cardio, Balanced Diet",7.5,45
+48,Other,162,66,25.1,Very Active,Gym,33,Student,4.1,Vegan,None,None,Muscle Gain,73,158,2589,173,"Weightlifting, Protein Diet",7.5,33
+66,Other,163,52,19.6,Sedentary,Walking,45,Shift work,8.5,Keto,Gluten,None,Endurance,52,164,2572,110,"Endurance Training, Balanced Meals",7.5,45
+44,Male,163,71,26.7,Very Active,Sports,29,Student,6.8,Non-Vegetarian,None,None,Endurance,71,133,2385,112,"Endurance Training, Balanced Meals",7.5,29
+67,Male,155,70,29.1,Active,Sports,44,Shift work,8.0,Vegetarian,None,Diabetes,Weight Loss,58,139,1696,123,"HIIT, Walking",7.5,44
+57,Male,175,55,18.0,Very Active,Sports,31,Shift work,7.7,Keto,None,Asthma,Maintenance,55,47,2079,122,"Cardio, Balanced Diet",7.5,31
+60,Male,158,52,20.8,Lightly Active,Sports,63,Shift work,7.4,Keto,None,None,Muscle Gain,61,134,2698,161,"Weightlifting, Protein Diet",7.5,63
+54,Female,153,51,21.8,Active,Walking,63,Shift work,5.1,Keto,None,None,Weight Loss,38,88,1874,108,"HIIT, Walking",7.5,63
+29,Other,190,64,17.7,Lightly Active,Yoga,30,Student,7.2,Non-Vegetarian,Gluten,None,Endurance,64,142,2306,133,"Endurance Training, Balanced Meals",7.5,30
+36,Other,180,67,20.7,Very Active,Sports,56,Student,4.2,Keto,Nuts,None,Endurance,67,134,2619,126,"Endurance Training, Balanced Meals",7.5,56
+25,Male,166,106,38.5,Sedentary,Sports,64,Student,4.1,Vegetarian,None,Diabetes,Endurance,106,30,2448,104,"Endurance Training, Balanced Meals",7.5,64
+52,Male,163,58,21.8,Lightly Active,Sports,87,Desk job,7.9,Vegan,None,None,Muscle Gain,65,86,2919,163,"Weightlifting, Protein Diet",7.5,87
+35,Other,191,86,23.6,Active,Sports,44,Shift work,6.5,Non-Vegetarian,None,None,Muscle Gain,95,155,2745,165,"Weightlifting, Protein Diet",7.5,44
+64,Other,178,101,31.9,Active,Walking,77,Student,6.0,Vegetarian,None,None,Maintenance,101,57,2192,104,"Cardio, Balanced Diet",7.5,77
+59,Female,185,95,27.8,Sedentary,Gym,35,Shift work,5.8,Keto,Dairy,Asthma,Muscle Gain,103,135,2562,161,"Weightlifting, Protein Diet",7.5,35
+18,Male,166,90,32.7,Very Active,Yoga,76,Field work,4.2,Vegetarian,Soy,None,Maintenance,90,75,2046,114,"Cardio, Balanced Diet",7.5,76
+55,Male,163,51,19.2,Very Active,Home Workouts,89,Desk job,8.2,Vegetarian,None,None,Muscle Gain,56,66,2641,186,"Weightlifting, Protein Diet",7.5,89
+25,Other,162,62,23.6,Very Active,Yoga,77,Field work,7.6,Non-Vegetarian,None,None,Weight Loss,51,54,1719,110,"HIIT, Walking",7.5,77
+50,Female,179,66,20.6,Very Active,Walking,88,Student,4.3,Keto,None,None,Maintenance,66,92,2047,122,"Cardio, Balanced Diet",7.5,88
+65,Male,161,63,24.3,Very Active,Walking,46,Student,7.7,Keto,None,Diabetes,Weight Loss,49,57,1860,112,"HIIT, Walking",7.5,46
+53,Male,196,63,16.4,Active,Sports,76,Student,6.0,Non-Vegetarian,Nuts,None,Muscle Gain,71,85,2778,166,"Weightlifting, Protein Diet",7.5,76
+33,Female,157,68,27.6,Lightly Active,Gym,77,Field work,5.3,Keto,None,None,Muscle Gain,77,142,2667,182,"Weightlifting, Protein Diet",7.5,77
+44,Other,165,77,28.3,Lightly Active,Gym,60,Student,8.5,Keto,None,Hypertension,Muscle Gain,85,59,2972,194,"Weightlifting, Protein Diet",7.5,60
+33,Other,197,94,24.2,Lightly Active,Gym,31,Desk job,4.4,Keto,None,None,Maintenance,94,85,2052,103,"Cardio, Balanced Diet",7.5,31
+51,Female,151,106,46.5,Active,Walking,70,Shift work,5.8,Non-Vegetarian,None,None,Muscle Gain,112,70,2807,168,"Weightlifting, Protein Diet",7.5,70
+62,Female,198,76,19.4,Lightly Active,Walking,85,Student,6.5,Keto,Gluten,None,Muscle Gain,85,98,2613,160,"Weightlifting, Protein Diet",7.5,85
+27,Other,151,64,28.1,Active,Gym,56,Shift work,4.9,Vegan,None,None,Maintenance,64,48,2451,123,"Cardio, Balanced Diet",7.5,56
+37,Other,177,103,32.9,Active,Gym,38,Field work,6.8,Keto,None,None,Endurance,103,132,2320,134,"Endurance Training, Balanced Meals",7.5,38
+47,Male,191,96,26.3,Sedentary,Sports,36,Desk job,4.7,Vegetarian,Nuts,None,Endurance,96,68,2382,131,"Endurance Training, Balanced Meals",7.5,36
+53,Female,186,97,28.0,Lightly Active,Yoga,50,Field work,4.2,Vegetarian,None,None,Weight Loss,87,161,1964,107,"HIIT, Walking",7.5,50
+63,Other,183,60,17.9,Active,Yoga,75,Field work,6.1,Non-Vegetarian,None,None,Endurance,60,37,2643,107,"Endurance Training, Balanced Meals",7.5,75
+51,Other,165,90,33.1,Sedentary,Sports,41,Student,4.0,Vegetarian,Soy,None,Endurance,90,55,2419,118,"Endurance Training, Balanced Meals",7.5,41
+60,Male,182,69,20.8,Lightly Active,Home Workouts,27,Field work,8.6,Keto,None,None,Maintenance,69,101,2042,145,"Cardio, Balanced Diet",7.5,27
+25,Male,184,88,26.0,Very Active,Yoga,23,Desk job,8.0,Keto,None,None,Endurance,88,63,2577,144,"Endurance Training, Balanced Meals",7.5,23
+65,Female,183,68,20.3,Sedentary,Home Workouts,37,Student,4.6,Non-Vegetarian,None,None,Weight Loss,58,42,1519,101,"HIIT, Walking",7.5,37
+52,Other,168,94,33.3,Sedentary,Walking,73,Field work,5.5,Non-Vegetarian,None,None,Muscle Gain,101,36,2630,196,"Weightlifting, Protein Diet",7.5,73
+50,Female,191,65,17.8,Sedentary,Sports,43,Shift work,7.8,Non-Vegetarian,None,Diabetes,Muscle Gain,73,144,2945,166,"Weightlifting, Protein Diet",7.5,43
+33,Other,181,109,33.3,Very Active,Gym,46,Field work,8.8,Vegan,None,Diabetes,Weight Loss,101,110,1709,122,"HIIT, Walking",7.5,46
+51,Male,172,106,35.8,Lightly Active,Sports,71,Shift work,6.6,Vegan,None,None,Weight Loss,99,116,1514,113,"HIIT, Walking",7.5,71
+19,Other,198,67,17.1,Very Active,Yoga,51,Desk job,7.8,Vegan,Soy,None,Muscle Gain,74,156,2738,162,"Weightlifting, Protein Diet",7.5,51
+19,Female,187,90,25.7,Very Active,Walking,83,Student,7.1,Keto,None,None,Weight Loss,78,113,1545,130,"HIIT, Walking",7.5,83
+41,Other,175,62,20.2,Lightly Active,Home Workouts,63,Desk job,7.1,Non-Vegetarian,Dairy,Asthma,Endurance,62,54,2507,103,"Endurance Training, Balanced Meals",7.5,63
+38,Female,188,64,18.1,Sedentary,Sports,47,Desk job,5.3,Non-Vegetarian,None,Hypertension,Weight Loss,57,81,1976,138,"HIIT, Walking",7.5,47
+35,Other,197,71,18.3,Active,Gym,71,Shift work,5.7,Keto,Dairy,None,Endurance,71,123,2406,114,"Endurance Training, Balanced Meals",7.5,71
+67,Other,160,89,34.8,Lightly Active,Walking,58,Field work,5.9,Vegan,Dairy,None,Maintenance,89,80,2046,135,"Cardio, Balanced Diet",7.5,58
+48,Male,190,62,17.2,Lightly Active,Home Workouts,84,Student,7.4,Keto,None,Hypertension,Weight Loss,53,114,1654,118,"HIIT, Walking",7.5,84
+40,Other,199,100,25.3,Active,Yoga,70,Field work,6.1,Keto,None,Diabetes,Maintenance,100,78,2421,146,"Cardio, Balanced Diet",7.5,70
+25,Other,151,79,34.6,Sedentary,Home Workouts,57,Desk job,5.6,Vegetarian,Gluten,None,Muscle Gain,86,130,2976,194,"Weightlifting, Protein Diet",7.5,57
+25,Female,178,51,16.1,Sedentary,Gym,69,Desk job,6.1,Keto,None,None,Maintenance,51,152,2226,105,"Cardio, Balanced Diet",7.5,69
+62,Other,167,105,37.6,Sedentary,Gym,46,Shift work,6.7,Vegetarian,None,None,Maintenance,105,35,2408,130,"Cardio, Balanced Diet",7.5,46
+26,Female,186,76,22.0,Sedentary,Gym,85,Field work,5.6,Keto,None,None,Endurance,76,38,2585,129,"Endurance Training, Balanced Meals",7.5,85
+39,Female,160,104,40.6,Active,Gym,32,Shift work,6.6,Vegetarian,Nuts,Asthma,Maintenance,104,130,2104,125,"Cardio, Balanced Diet",7.5,32
+29,Female,179,77,24.0,Active,Walking,88,Field work,4.4,Vegan,None,None,Weight Loss,63,178,1500,127,"HIIT, Walking",7.5,88
+65,Female,164,104,38.7,Sedentary,Walking,44,Desk job,9.0,Keto,None,None,Muscle Gain,111,163,2766,162,"Weightlifting, Protein Diet",7.5,44
+29,Female,151,102,44.7,Active,Sports,36,Student,4.8,Non-Vegetarian,Dairy,Hypertension,Endurance,102,59,2653,101,"Endurance Training, Balanced Meals",7.5,36
+31,Male,167,100,35.9,Very Active,Home Workouts,31,Field work,5.4,Vegetarian,None,None,Endurance,100,136,2479,133,"Endurance Training, Balanced Meals",7.5,31
+25,Male,182,72,21.7,Sedentary,Home Workouts,68,Field work,8.8,Vegetarian,Gluten,Hypertension,Muscle Gain,78,150,2962,170,"Weightlifting, Protein Diet",7.5,68
+35,Female,162,73,27.8,Lightly Active,Walking,44,Field work,9.0,Keto,None,Asthma,Muscle Gain,79,123,2796,179,"Weightlifting, Protein Diet",7.5,44
+53,Male,183,65,19.4,Very Active,Walking,33,Shift work,6.4,Keto,None,None,Muscle Gain,70,54,2630,154,"Weightlifting, Protein Diet",7.5,33
+55,Female,175,89,29.1,Lightly Active,Sports,26,Field work,7.0,Vegan,Soy,Asthma,Weight Loss,79,167,1940,127,"HIIT, Walking",7.5,26
+31,Female,165,109,40.0,Sedentary,Sports,25,Desk job,4.9,Keto,Soy,None,Muscle Gain,115,161,2653,161,"Weightlifting, Protein Diet",7.5,25
+19,Male,184,59,17.4,Very Active,Gym,62,Desk job,4.1,Keto,None,Hypertension,Endurance,59,34,2430,108,"Endurance Training, Balanced Meals",7.5,62
+35,Male,157,93,37.7,Very Active,Walking,70,Desk job,6.0,Keto,None,None,Weight Loss,83,73,1684,148,"HIIT, Walking",7.5,70
+51,Other,180,67,20.7,Active,Sports,62,Field work,4.9,Vegetarian,Gluten,Diabetes,Weight Loss,62,97,1779,135,"HIIT, Walking",7.5,62
+53,Male,151,77,33.8,Lightly Active,Sports,25,Shift work,5.4,Vegan,None,None,Weight Loss,67,72,1858,149,"HIIT, Walking",7.5,25
+21,Male,153,85,36.3,Active,Home Workouts,44,Field work,6.4,Non-Vegetarian,None,Diabetes,Maintenance,85,55,2426,135,"Cardio, Balanced Diet",7.5,44
+56,Male,165,107,39.3,Lightly Active,Yoga,25,Field work,4.8,Non-Vegetarian,Gluten,None,Endurance,107,54,2541,117,"Endurance Training, Balanced Meals",7.5,25
+29,Other,194,88,23.4,Sedentary,Walking,73,Desk job,6.9,Vegetarian,None,None,Muscle Gain,97,102,2827,188,"Weightlifting, Protein Diet",7.5,73
+57,Female,152,104,45.0,Very Active,Gym,38,Field work,6.2,Non-Vegetarian,Dairy,Asthma,Maintenance,104,80,2309,125,"Cardio, Balanced Diet",7.5,38
+34,Female,177,68,21.7,Active,Sports,38,Desk job,7.5,Vegetarian,None,None,Weight Loss,56,165,1669,111,"HIIT, Walking",7.5,38
+59,Male,175,67,21.9,Lightly Active,Yoga,35,Desk job,7.6,Vegan,None,None,Weight Loss,57,52,1558,148,"HIIT, Walking",7.5,35
+21,Other,190,72,19.9,Active,Sports,74,Desk job,7.6,Keto,None,Asthma,Weight Loss,59,108,1666,132,"HIIT, Walking",7.5,74
+18,Male,158,93,37.3,Lightly Active,Sports,64,Field work,8.7,Vegan,None,Asthma,Maintenance,93,114,2319,129,"Cardio, Balanced Diet",7.5,64
+35,Other,152,61,26.4,Active,Home Workouts,49,Desk job,4.2,Keto,Gluten,Hypertension,Endurance,61,58,2311,137,"Endurance Training, Balanced Meals",7.5,49
+38,Male,190,100,27.7,Lightly Active,Gym,56,Student,4.5,Vegan,None,None,Weight Loss,95,87,1758,120,"HIIT, Walking",7.5,56
+40,Male,168,94,33.3,Active,Sports,38,Field work,4.6,Vegan,Gluten,None,Maintenance,94,63,2288,127,"Cardio, Balanced Diet",7.5,38
+48,Female,169,89,31.2,Active,Walking,50,Field work,6.6,Vegetarian,Gluten,Asthma,Maintenance,89,157,2277,115,"Cardio, Balanced Diet",7.5,50
+49,Female,175,63,20.6,Active,Walking,27,Student,8.5,Non-Vegetarian,None,None,Endurance,63,77,2397,119,"Endurance Training, Balanced Meals",7.5,27
+48,Male,193,56,15.0,Very Active,Gym,21,Desk job,7.4,Vegetarian,None,None,Muscle Gain,63,153,2994,188,"Weightlifting, Protein Diet",7.5,21
+47,Female,153,100,42.7,Sedentary,Yoga,77,Desk job,6.5,Vegetarian,Gluten,None,Endurance,100,129,2457,135,"Endurance Training, Balanced Meals",7.5,77
+25,Male,191,99,27.1,Sedentary,Gym,69,Shift work,8.6,Vegan,None,Asthma,Maintenance,99,43,2431,128,"Cardio, Balanced Diet",7.5,69
+64,Other,168,76,26.9,Sedentary,Home Workouts,56,Shift work,8.0,Vegetarian,Nuts,Asthma,Endurance,76,47,2544,134,"Endurance Training, Balanced Meals",7.5,56
+21,Female,188,75,21.2,Very Active,Sports,34,Shift work,7.3,Keto,Gluten,None,Endurance,75,85,2373,146,"Endurance Training, Balanced Meals",7.5,34
+32,Male,165,54,19.8,Lightly Active,Sports,73,Shift work,7.6,Keto,None,None,Weight Loss,49,173,1877,127,"HIIT, Walking",7.5,73
+39,Female,171,90,30.8,Very Active,Yoga,69,Shift work,7.4,Non-Vegetarian,None,None,Weight Loss,79,130,1610,114,"HIIT, Walking",7.5,69
+59,Female,175,95,31.0,Lightly Active,Walking,29,Desk job,8.4,Non-Vegetarian,Gluten,None,Maintenance,95,147,2008,121,"Cardio, Balanced Diet",7.5,29
+40,Other,197,58,14.9,Active,Home Workouts,62,Student,7.9,Vegan,Gluten,None,Endurance,58,164,2653,124,"Endurance Training, Balanced Meals",7.5,62
+58,Other,162,88,33.5,Very Active,Gym,81,Student,4.4,Non-Vegetarian,None,Hypertension,Endurance,88,135,2457,101,"Endurance Training, Balanced Meals",7.5,81
+44,Female,197,88,22.7,Sedentary,Home Workouts,75,Student,4.2,Vegan,Gluten,None,Muscle Gain,96,160,2756,166,"Weightlifting, Protein Diet",7.5,75
+24,Female,197,54,13.9,Active,Walking,68,Student,4.6,Vegan,None,Diabetes,Muscle Gain,60,118,2909,163,"Weightlifting, Protein Diet",7.5,68
+31,Female,174,85,28.1,Very Active,Walking,84,Field work,6.5,Non-Vegetarian,None,Asthma,Weight Loss,73,156,1788,103,"HIIT, Walking",7.5,84
+24,Male,165,54,19.8,Lightly Active,Sports,42,Shift work,8.0,Vegetarian,None,Diabetes,Maintenance,54,81,2498,116,"Cardio, Balanced Diet",7.5,42
+54,Male,176,69,22.3,Sedentary,Walking,27,Student,6.3,Vegan,None,Asthma,Endurance,69,178,2448,121,"Endurance Training, Balanced Meals",7.5,27
+59,Female,159,101,40.0,Sedentary,Gym,36,Field work,4.2,Vegetarian,Gluten,None,Weight Loss,89,134,1603,144,"HIIT, Walking",7.5,36
+66,Other,156,66,27.1,Sedentary,Home Workouts,89,Field work,5.1,Keto,None,None,Weight Loss,59,123,1675,105,"HIIT, Walking",7.5,89
+32,Other,165,69,25.3,Sedentary,Sports,61,Field work,8.8,Keto,None,None,Maintenance,69,71,2173,108,"Cardio, Balanced Diet",7.5,61
+37,Other,170,59,20.4,Lightly Active,Home Workouts,82,Desk job,5.7,Vegetarian,Gluten,None,Muscle Gain,64,151,2817,188,"Weightlifting, Protein Diet",7.5,82
+63,Male,198,71,18.1,Lightly Active,Home Workouts,89,Student,4.3,Non-Vegetarian,None,None,Maintenance,71,41,2242,143,"Cardio, Balanced Diet",7.5,89
+33,Female,152,51,22.1,Very Active,Home Workouts,30,Field work,5.8,Vegan,Dairy,Diabetes,Maintenance,51,125,2482,130,"Cardio, Balanced Diet",7.5,30
+62,Male,157,69,28.0,Lightly Active,Walking,23,Field work,6.0,Keto,None,None,Muscle Gain,74,88,2800,190,"Weightlifting, Protein Diet",7.5,23
+55,Male,168,63,22.3,Active,Home Workouts,34,Shift work,8.8,Non-Vegetarian,None,Hypertension,Maintenance,63,36,2397,105,"Cardio, Balanced Diet",7.5,34
+38,Other,157,83,33.7,Very Active,Gym,88,Field work,4.5,Keto,None,Asthma,Muscle Gain,89,70,2513,154,"Weightlifting, Protein Diet",7.5,88
+28,Male,178,60,18.9,Sedentary,Gym,55,Shift work,6.8,Non-Vegetarian,Nuts,None,Weight Loss,48,46,1701,127,"HIIT, Walking",7.5,55
+35,Other,167,94,33.7,Very Active,Walking,77,Field work,7.1,Vegetarian,Soy,Diabetes,Weight Loss,85,160,1582,144,"HIIT, Walking",7.5,77
+61,Other,155,63,26.2,Very Active,Home Workouts,37,Desk job,6.8,Non-Vegetarian,None,None,Endurance,63,80,2218,103,"Endurance Training, Balanced Meals",7.5,37
+50,Female,162,107,40.8,Sedentary,Home Workouts,49,Field work,8.2,Non-Vegetarian,None,None,Weight Loss,102,103,1837,118,"HIIT, Walking",7.5,49
+24,Male,168,73,25.9,Active,Gym,61,Shift work,8.0,Keto,None,None,Endurance,73,116,2559,136,"Endurance Training, Balanced Meals",7.5,61
+28,Other,160,62,24.2,Lightly Active,Sports,44,Shift work,5.3,Vegan,None,None,Maintenance,62,79,2427,113,"Cardio, Balanced Diet",7.5,44
+32,Female,179,79,24.7,Lightly Active,Sports,39,Desk job,4.5,Vegan,None,None,Maintenance,79,129,2444,119,"Cardio, Balanced Diet",7.5,39
+20,Other,181,78,23.8,Active,Walking,25,Student,8.3,Keto,None,None,Muscle Gain,83,116,2869,160,"Weightlifting, Protein Diet",7.5,25
+66,Female,152,60,26.0,Lightly Active,Yoga,54,Field work,5.1,Vegan,None,None,Endurance,60,121,2608,110,"Endurance Training, Balanced Meals",7.5,54
+36,Male,154,59,24.9,Lightly Active,Walking,85,Field work,6.0,Vegetarian,None,None,Muscle Gain,65,57,2829,171,"Weightlifting, Protein Diet",7.5,85
+34,Female,192,68,18.4,Sedentary,Sports,71,Student,6.3,Non-Vegetarian,None,Diabetes,Weight Loss,54,124,1795,103,"HIIT, Walking",7.5,71
+48,Other,174,54,17.8,Lightly Active,Home Workouts,27,Desk job,4.9,Vegetarian,Dairy,None,Maintenance,54,144,2270,136,"Cardio, Balanced Diet",7.5,27
+36,Other,155,108,45.0,Active,Gym,38,Shift work,5.1,Vegan,Nuts,None,Maintenance,108,91,2386,117,"Cardio, Balanced Diet",7.5,38
+42,Other,169,107,37.5,Sedentary,Walking,29,Desk job,8.6,Keto,None,Asthma,Weight Loss,96,79,1714,130,"HIIT, Walking",7.5,29
+21,Male,152,70,30.3,Sedentary,Walking,87,Desk job,6.3,Vegetarian,Dairy,None,Maintenance,70,94,2294,118,"Cardio, Balanced Diet",7.5,87
+62,Female,193,61,16.4,Lightly Active,Home Workouts,33,Field work,7.2,Keto,Nuts,Diabetes,Maintenance,61,81,2318,140,"Cardio, Balanced Diet",7.5,33
+51,Other,190,106,29.4,Very Active,Home Workouts,84,Field work,6.0,Keto,Gluten,Diabetes,Endurance,106,62,2460,117,"Endurance Training, Balanced Meals",7.5,84
+65,Other,159,85,33.6,Sedentary,Home Workouts,53,Student,4.5,Vegan,None,Asthma,Muscle Gain,94,44,2741,199,"Weightlifting, Protein Diet",7.5,53
+42,Male,170,104,36.0,Lightly Active,Walking,51,Desk job,8.6,Vegan,Soy,None,Maintenance,104,177,2289,135,"Cardio, Balanced Diet",7.5,51
+36,Male,156,79,32.5,Sedentary,Yoga,82,Student,4.8,Vegan,None,None,Maintenance,79,65,2372,139,"Cardio, Balanced Diet",7.5,82
+20,Female,168,77,27.3,Active,Gym,26,Desk job,7.7,Non-Vegetarian,None,None,Maintenance,77,139,2007,104,"Cardio, Balanced Diet",7.5,26
+68,Other,153,63,26.9,Very Active,Sports,43,Field work,5.8,Vegan,Gluten,None,Maintenance,63,160,2411,109,"Cardio, Balanced Diet",7.5,43
+67,Male,197,65,16.7,Active,Walking,52,Student,8.8,Keto,None,Asthma,Endurance,65,86,2551,115,"Endurance Training, Balanced Meals",7.5,52
+49,Male,186,105,30.4,Very Active,Home Workouts,70,Desk job,7.2,Vegetarian,Dairy,None,Weight Loss,100,105,1685,113,"HIIT, Walking",7.5,70
+23,Male,171,83,28.4,Very Active,Yoga,22,Field work,7.4,Non-Vegetarian,None,None,Muscle Gain,89,85,2851,159,"Weightlifting, Protein Diet",7.5,22
+40,Female,155,72,30.0,Very Active,Gym,49,Student,4.4,Vegan,None,None,Endurance,72,51,2486,106,"Endurance Training, Balanced Meals",7.5,49
+58,Male,165,69,25.3,Active,Sports,66,Field work,5.2,Keto,None,Hypertension,Weight Loss,63,74,1695,148,"HIIT, Walking",7.5,66
+53,Other,164,95,35.3,Very Active,Yoga,59,Field work,6.7,Vegan,None,None,Maintenance,95,44,2064,123,"Cardio, Balanced Diet",7.5,59
+29,Female,195,91,23.9,Lightly Active,Sports,30,Field work,5.4,Vegetarian,None,Diabetes,Weight Loss,83,119,1507,123,"HIIT, Walking",7.5,30
+25,Other,196,97,25.2,Lightly Active,Walking,74,Desk job,7.7,Non-Vegetarian,None,None,Weight Loss,85,158,1975,105,"HIIT, Walking",7.5,74
+64,Male,160,54,21.1,Lightly Active,Walking,47,Desk job,8.1,Vegetarian,Gluten,Hypertension,Maintenance,54,120,2439,124,"Cardio, Balanced Diet",7.5,47
+46,Other,177,65,20.7,Lightly Active,Home Workouts,31,Student,4.2,Vegan,None,Asthma,Maintenance,65,142,2272,147,"Cardio, Balanced Diet",7.5,31
+38,Female,189,80,22.4,Active,Gym,80,Field work,4.5,Vegan,Nuts,None,Muscle Gain,86,176,2601,178,"Weightlifting, Protein Diet",7.5,80
+40,Other,181,59,18.0,Active,Gym,84,Shift work,8.2,Vegetarian,None,None,Maintenance,59,157,2266,121,"Cardio, Balanced Diet",7.5,84
+35,Other,155,52,21.6,Lightly Active,Home Workouts,28,Student,5.7,Keto,None,Diabetes,Maintenance,52,146,2404,126,"Cardio, Balanced Diet",7.5,28
+63,Female,187,98,28.0,Active,Gym,58,Shift work,8.5,Vegetarian,None,None,Weight Loss,86,98,1529,107,"HIIT, Walking",7.5,58
+66,Other,193,108,29.0,Active,Sports,74,Student,7.4,Non-Vegetarian,None,Asthma,Maintenance,108,42,2121,115,"Cardio, Balanced Diet",7.5,74
+61,Other,197,104,26.8,Active,Yoga,64,Desk job,5.4,Vegan,None,Diabetes,Muscle Gain,110,80,2801,169,"Weightlifting, Protein Diet",7.5,64
+49,Female,189,81,22.7,Lightly Active,Walking,58,Student,5.7,Vegan,None,None,Weight Loss,72,95,1731,142,"HIIT, Walking",7.5,58
+35,Other,162,90,34.3,Sedentary,Gym,26,Desk job,6.1,Non-Vegetarian,None,None,Muscle Gain,96,171,2647,174,"Weightlifting, Protein Diet",7.5,26
+59,Male,157,77,31.2,Active,Home Workouts,51,Student,6.5,Keto,None,None,Weight Loss,71,64,1612,114,"HIIT, Walking",7.5,51
+44,Male,189,51,14.3,Sedentary,Walking,50,Desk job,7.4,Vegetarian,Nuts,None,Maintenance,51,88,2258,116,"Cardio, Balanced Diet",7.5,50
+31,Female,195,87,22.9,Active,Gym,48,Student,7.6,Vegetarian,None,None,Muscle Gain,94,47,2850,176,"Weightlifting, Protein Diet",7.5,48
+33,Female,159,89,35.2,Very Active,Sports,70,Desk job,4.6,Keto,None,None,Muscle Gain,98,78,2759,164,"Weightlifting, Protein Diet",7.5,70
+68,Other,157,109,44.2,Very Active,Yoga,50,Shift work,7.8,Non-Vegetarian,None,None,Endurance,109,51,2586,114,"Endurance Training, Balanced Meals",7.5,50
+52,Other,187,82,23.4,Lightly Active,Gym,45,Student,8.7,Non-Vegetarian,None,None,Endurance,82,169,2667,148,"Endurance Training, Balanced Meals",7.5,45
+31,Female,184,78,23.0,Very Active,Sports,63,Field work,6.1,Vegetarian,None,None,Muscle Gain,87,30,2715,185,"Weightlifting, Protein Diet",7.5,63
+42,Female,180,80,24.7,Active,Walking,38,Desk job,4.8,Vegan,Soy,None,Maintenance,80,172,2409,102,"Cardio, Balanced Diet",7.5,38
+40,Male,194,89,23.6,Sedentary,Walking,60,Field work,4.3,Vegan,None,None,Muscle Gain,94,164,2796,169,"Weightlifting, Protein Diet",7.5,60
+27,Female,175,53,17.3,Lightly Active,Gym,84,Desk job,4.4,Vegan,Nuts,None,Muscle Gain,61,114,2758,164,"Weightlifting, Protein Diet",7.5,84
+38,Female,182,95,28.7,Active,Sports,25,Field work,4.4,Keto,None,None,Endurance,95,89,2323,119,"Endurance Training, Balanced Meals",7.5,25
+58,Other,194,67,17.8,Sedentary,Gym,84,Field work,8.4,Vegan,Nuts,Asthma,Weight Loss,57,162,1533,138,"HIIT, Walking",7.5,84
+20,Male,173,73,24.4,Active,Home Workouts,86,Shift work,8.3,Vegetarian,None,None,Weight Loss,64,171,1567,119,"HIIT, Walking",7.5,86
+45,Female,193,83,22.3,Sedentary,Gym,58,Student,5.6,Keto,None,None,Weight Loss,74,106,1810,109,"HIIT, Walking",7.5,58
+33,Female,197,60,15.5,Lightly Active,Sports,86,Student,9.0,Vegan,None,None,Endurance,60,138,2664,106,"Endurance Training, Balanced Meals",7.5,86
+45,Female,162,109,41.5,Sedentary,Sports,34,Field work,4.4,Keto,None,None,Endurance,109,167,2421,144,"Endurance Training, Balanced Meals",7.5,34
+37,Male,178,72,22.7,Sedentary,Walking,40,Student,4.7,Vegetarian,None,None,Weight Loss,66,107,1777,120,"HIIT, Walking",7.5,40
+18,Male,192,101,27.4,Very Active,Sports,66,Field work,5.8,Non-Vegetarian,Dairy,None,Weight Loss,90,52,1670,101,"HIIT, Walking",7.5,66
+19,Female,178,101,31.9,Lightly Active,Sports,86,Shift work,8.0,Vegetarian,Gluten,Asthma,Endurance,101,74,2215,147,"Endurance Training, Balanced Meals",7.5,86
+48,Female,199,50,12.6,Lightly Active,Walking,81,Student,5.3,Keto,None,None,Endurance,50,39,2219,105,"Endurance Training, Balanced Meals",7.5,81
+25,Male,183,81,24.2,Active,Walking,23,Student,6.5,Keto,Gluten,None,Weight Loss,73,100,1957,146,"HIIT, Walking",7.5,23
